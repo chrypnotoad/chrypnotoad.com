@@ -10,7 +10,6 @@ Multi-domain website setup for CHRYPNOTOAD ecosystem:
 
 ```
 .
-├── nft/            # NFT Collection website
 ├── toad/           # $TOAD Token website
 ├── www/            # Main website
 ```

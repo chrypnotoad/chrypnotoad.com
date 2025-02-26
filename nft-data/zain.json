@@ -1,0 +1,616 @@
+{
+  "contractAddress": "0xE36F6887F411ed8eeE1ABe99dDaBc167784D050a",
+  "collectionName": "Zain",
+  "totalNFTs": 30,
+  "nfts": [
+    {
+      "tokenId": "0x00",
+      "name": "Zain's Neon Mystique",
+      "imageUrl": "https://ipfs.io/ipfs/QmSNAKxA2jxGfP1yidNn8amYcT6k69r1Rk8DJ15Xm9cMKV",
+      "description": "Neon lights accentuate Zain's sharp features. This illumination casts an enigmatic glow, with his eyes twinkling like stars and a delicate, glowing necklace enhancing his mysterious allure.",
+      "externalUrl": "https://zain.uncut.network/nft/34361314046",
+      "attributes": [
+        {
+          "value": "Zain",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x01",
+      "name": "Zain's Cosmic Leisure",
+      "imageUrl": "https://ipfs.io/ipfs/QmbD8rY4uChLCGU9zEfCsHnpa1twXfVU63VcMU5o4q523u",
+      "description": "His relaxed yet commanding pose complemented by a piercing gaze that seems to challenge the cosmos itself. His neck is adorned with a choker, centered by a luminous blue gem that hints at his regal and untamed spirit.",
+      "externalUrl": "https://zain.uncut.network/nft/34361314047",
+      "attributes": [
+        {
+          "value": "Zain",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x02",
+      "name": "Zain's Golden Contemplation",
+      "imageUrl": "https://ipfs.io/ipfs/QmVS1Kc3crNZJrRLeBk9J9UGPyZTrrkgtcNWvroGTX9jbY",
+      "description": "In the warmth of golden and orange hues, highlighting his contemplative expression amidst a cascade of gentle stars. His subtle ear jewelry captures the ambient light, revealing a softer, more introspective side of his persona.",
+      "externalUrl": "https://zain.uncut.network/nft/34361314048",
+      "attributes": [
+        {
+          "value": "Zain",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x03",
+      "name": "Zain's Starlit Majesty",
+      "imageUrl": "https://ipfs.io/ipfs/Qmb3zSqaMHef3EH8dCa2EZpntryK1rN1y4La57vmJ7u2MJ",
+      "description": "Amidst a backdrop of a twinkling, star-filled sky, his gaze is regal and distant, reflecting the boundless universe around him. The rich blue tones of the night caress his strong features, while the celestial adornments around his neck speak of royalty and the mystical. Stars seem to gather with a purpose, illuminating his silhouette, creating an aura of a sovereign bound to the cosmos.",
+      "externalUrl": "https://zain.uncut.network/nft/34361314049",
+      "attributes": [
+        {
+          "value": "Zain",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x04",
+      "name": "Zain's Casual Inquiry",
+      "imageUrl": "https://ipfs.io/ipfs/Qmb4cevRaGMt3KYoYjkGhjL8JR8rDNnxeyBffXinZnw9Cn",
+      "description": "With a casual shrug, he invites curiosity and conversation. His relaxed posture and the subtle tilt of his head suggest a friendly demeanor, set against a minimalist backdrop that focuses all attention on him. The ornamental details of his outfit, particularly the striking blue medallion, lend an air of informal elegance that makes him approachable yet intriguing.",
+      "externalUrl": "https://zain.uncut.network/nft/34361314051",
+      "attributes": [
+        {
+          "value": "Zain",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x05",
+      "name": "Zain's Desert Command",
+      "imageUrl": "https://ipfs.io/ipfs/Qmbb7JjLcn5Y6Wu5ywGGRKmHbi9FpKVk82rPRyyAuDkoFn",
+      "description": "In the heart of the desert, his commanding presence is marked by a direct point towards the viewer, as if summoning or directing attention to an unseen spectacle. The sun casts a golden hue over his skin and the vibrant elements of his attire, highlighting the bold contrast of his features against the rugged landscape. The jewels adorning his outfit capture the intense light, mirroring the unyielding spirit of the desert.",
+      "externalUrl": "https://zain.uncut.network/nft/34361314055",
+      "attributes": [
+        {
+          "value": "Zain",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x06",
+      "name": "Zain's Town Serenity",
+      "imageUrl": "https://ipfs.io/ipfs/QmaYJpJbFWvy7jxXu57uefT1iAhYoXCkFjb6ywSf2M56RD",
+      "description": "Amid the rustic charm of a Western town, his expression is a portrait of calm sophistication against the backdrop of aged buildings and clear skies. The intricate gemstone details of his attire reflect the quaint, historical essence of his surroundings, blending traditional elegance with a touch of the old frontier. His poised demeanor and the gentle clouds above suggest a man at ease in his timeless environment.",
+      "externalUrl": "https://zain.uncut.network/nft/34361314056",
+      "attributes": [
+        {
+          "value": "Zain",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x07",
+      "name": "Zain's Ominous Ritual",
+      "imageUrl": "https://ipfs.io/ipfs/QmQWy4ZsSQQPZUNabkBWAEAChbV89b6y7GXEvnnpKmCuuH",
+      "description": "His intense gaze, illuminated by glowing red eyes, captures a moment of deep focus as he grasps a gleaming knife. The sky, charged with dynamic clouds, frames him in an atmosphere of foreboding, suggesting an imminent arcane undertaking.",
+      "externalUrl": "https://zain.uncut.network/nft/34361314057",
+      "attributes": [
+        {
+          "value": "Zain",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x08",
+      "name": "Zain's Elemental Invitation",
+      "imageUrl": "https://ipfs.io/ipfs/Qmdyi5913tsSBEfTzeoZAgKDktkkAgQMrx7F6pu1p7xRRN",
+      "description": "As lightning streaks across the sky, his hands are open in a gesture of invocation, his eyes subtly alight with magical intensity. This dramatic backdrop enhances the sense of power emanating from him, as he seemingly commands the elemental forces surrounding him.",
+      "externalUrl": "https://zain.uncut.network/nft/34361314058",
+      "attributes": [
+        {
+          "value": "Zain",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x09",
+      "name": "Zain's Elemental Invitation",
+      "imageUrl": "https://ipfs.io/ipfs/QmSTAmVNARiRbGpAgvH9b2bUpBUjRhNJ3M2ZEWjpDEvwwL",
+      "description": "Holding a dagger in one hand and extending the other, his bright red eyes with dark pupils intensify the scene, suggesting a beckoning to darker forces. The contrast between the serene sky and the impending storm adds a layer of urgency to his mystical summoning.",
+      "externalUrl": "https://zain.uncut.network/nft/34361314059",
+      "attributes": [
+        {
+          "value": "Zain",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0a",
+      "name": "Zain's Scholarly Reflection",
+      "imageUrl": "https://ipfs.io/ipfs/QmTaWTBNGPmGKRgTXvLdXMHg31EwMnDAU2y4ZNuJFGpHV6",
+      "description": "In a library bathed in golden sunlight, his gaze is thoughtful, almost contemplative, as he is surrounded by the grandeur of towering bookshelves filled with ancient knowledge. The intricate details of the architecture and his casual, yet stylish floral attire suggest a blend of old-world charm with contemporary elegance.",
+      "externalUrl": "https://zain.uncut.network/nft/34361314060",
+      "attributes": [
+        {
+          "value": "Zain",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0b",
+      "name": "Zain's Atrium Enlightenment",
+      "imageUrl": "https://ipfs.io/ipfs/QmZyrodCs1DQeeY7wSJtS3GhjipvRLhz5gjawHJw4ohKBU",
+      "description": "Amidst a resplendent library with a domed glass ceiling, his stern expression contrasts with the softness of the diffused light filtering through. His scholarly demeanor, highlighted by the weight of the books he carries, suggests a pursuit of profound truths.",
+      "externalUrl": "https://zain.uncut.network/nft/34361314062",
+      "attributes": [
+        {
+          "value": "Zain",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0c",
+      "name": "Zain's Monochrome Musings",
+      "imageUrl": "https://ipfs.io/ipfs/QmcZcYD9HPycsTVzZ8W6eYNznkPHYjj5dT6wkx8AFg2taV",
+      "description": "With a confident stance in an opulent library rendered in shades of gray, he embodies the intersection of historical depth and contemporary insight. The rich details of the surrounding stonework and laden shelves frame his quest for knowledge, painting him as a figure both of his time and timeless in his intellectual endeavor.",
+      "externalUrl": "https://zain.uncut.network/nft/34361314064",
+      "attributes": [
+        {
+          "value": "Zain",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0d",
+      "name": "Zain's Incandescent Reflection",
+      "imageUrl": "https://ipfs.io/ipfs/Qmcz7SnBojhbJgrk2t1YjZuJ3AMDSPswmGA8itHZ1VjqVY",
+      "description": "Amidst a swirl of vibrant flames, he stands enveloped in a blaze that mirrors the intensity in his eyes. The flames dance around him, not just a backdrop but a part of his very essence, as if he is both the master and the emanation of this fiery spectacle.",
+      "externalUrl": "https://zain.uncut.network/nft/34361314065",
+      "attributes": [
+        {
+          "value": "Zain",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0e",
+      "name": "Zain's Fiery Aura",
+      "imageUrl": "https://ipfs.io/ipfs/QmTzNgW433Ppbqp5uuG7zemVsQ97e9GxKT5D7eGEAJNNLU",
+      "description": "His visage, serene yet commanding, emerges from an explosion of golden flames. The fiery curls light up his features with a supernatural glow, enhancing the determined look in his eyes. This fiery tableau speaks to a moment of transformation, where he harnesses the raw energy of fire.",
+      "externalUrl": "https://zain.uncut.network/nft/34361314067",
+      "attributes": [
+        {
+          "value": "Zain",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0f",
+      "name": "Zain's Ember Glance",
+      "imageUrl": "https://ipfs.io/ipfs/QmU6VNanEsJ94QMUMTNUM8BquCN8p9G29tzHnp3WLSKt29",
+      "description": "As the flames cascade around him, his eyes hold a smoldering intensity. The fire seems to be an extension of his will, curving and flickering in response to the subtle cues of his presence. This scene captures a powerful confluence of man and element, with each flame reflecting a spark of his inner strength.",
+      "externalUrl": "https://zain.uncut.network/nft/34361314069",
+      "attributes": [
+        {
+          "value": "Zain",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x10",
+      "name": "Zain's Cool Blaze",
+      "imageUrl": "https://ipfs.io/ipfs/QmbC9yKE6Jagv1NR6EvByTXw7BbrLAChjxsG6To7j4PteT",
+      "description": "Contrasting the warmth of the surrounding flames, a cool blue essence permeates his aura. This unusual fusion of fire and ice in his demeanor suggests a complex interplay of power and restraint, as if he is balancing the heat of passion with the calm of reason.",
+      "externalUrl": "https://zain.uncut.network/nft/34361314071",
+      "attributes": [
+        {
+          "value": "Zain",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x11",
+      "name": "Zain's Luminous Calm",
+      "imageUrl": "https://ipfs.io/ipfs/QmZxUpcssDC1Jc8kVNp3PXdZCvxtwPueXe3x4W2XnSQr1D",
+      "description": "Surrounded by gentle flames that transition from fiery orange to soothing blue, he embodies a paradoxical mix of energy and tranquility. His face, lit by the soft light of these dual-toned flames, reflects a serene mastery over the elements, a guardian of both fire and the tranquility it can forge.",
+      "externalUrl": "https://zain.uncut.network/nft/34361314072",
+      "attributes": [
+        {
+          "value": "Zain",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x12",
+      "name": "Zain's Dark Conjuration",
+      "imageUrl": "https://ipfs.io/ipfs/QmSTAmVNARiRbGpAgvH9b2bUpBUjRhNJ3M2ZEWjpDEvwwL",
+      "description": "With a dagger gripped firmly in one hand and the other extended outward, he commands the scene, his eyes glowing a deep red with dark centers that draw in the gaze. This stance, amid an atmosphere charged with the anticipation of a storm, speaks of a summoning power, as if he is pulling at the threads of darker, unseen forces gathering around him. The contrast of the calm sky against the rising tumult underscores a pivotal moment of arcane influence.",
+      "externalUrl": "https://zain.uncut.network/nft/34361314078",
+      "attributes": [
+        {
+          "value": "Zain",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x13",
+      "name": "Zain's Luminous Inquiry",
+      "imageUrl": "https://ipfs.io/ipfs/QmaoBBcjezMqadFJRkoe7Aq1tM9GnWGnNHDnD4jmxGRk79",
+      "description": "Amid a dusky backdrop, he examines a glowing white capsule cradled in his palm, its light casting ethereal reflections on his face. The shimmer of the capsule seems to offer secrets or answers, drawing out a look of intense scrutiny and curiosity.\n\n\\#whitepillwednesday",
+      "externalUrl": "https://zain.uncut.network/nft/34361314504",
+      "attributes": [
+        {
+          "value": "Zain",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x14",
+      "name": "Zain's Quiet Contemplation",
+      "imageUrl": "https://ipfs.io/ipfs/QmY4MKj2vYx7a14U85VoVsJy2TJugxdSQ6jv91Gx5A3hiy",
+      "description": "Under a soft, shadowy light, he holds a radiant white capsule, its glow highlighting the thoughtful expression etched on his features. Wrapped in a cloak that blends with the shadows, the scene captures a moment of solitude where the quest for knowledge is both personal and profound.\n\n\\#whitepillwednesday",
+      "externalUrl": "https://zain.uncut.network/nft/34361314506",
+      "attributes": [
+        {
+          "value": "Zain",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x15",
+      "name": "Zain's Serene Revelation",
+      "imageUrl": "https://ipfs.io/ipfs/Qmc7whMKNkXv4DYxwdEbVmP4L1rWj9zpGFQH36qP1j53Wt",
+      "description": "In a tranquil field under a calm sky, he presents a luminous capsule with both hands, his eyes alight with a supernatural glow. This peaceful setting, coupled with the mystical light emanating from the capsule, suggests a moment of enlightenment, connecting him with the vast, unseen forces of the universe.\n\n\\#whitepillwednesday",
+      "externalUrl": "https://zain.uncut.network/nft/34361314508",
+      "attributes": [
+        {
+          "value": "Zain",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x16",
+      "name": "Zain's Cosmic Choice",
+      "imageUrl": "https://ipfs.io/ipfs/QmZ1Rwhn6ozzwtrDE15mqDVSDoupwiKthGGvDwaVTBcHmL",
+      "description": "Arrayed in a kaleidoscope of vivid colors, he stands as the master of celestial elements, presenting a sun and a star-studded sphere as choices in the palm of his hands. The radiant light from these cosmic bodies casts an otherworldly glow, framing his confident gaze. This vibrant tableau speaks to the power of choice and the influence of cosmic forces, captured in the moment where the decision is not just his to make but also his to offer.\n\n\\#whitepillwednesday",
+      "externalUrl": "https://zain.uncut.network/nft/34361314511",
+      "attributes": [
+        {
+          "value": "Zain",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Epic",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x17",
+      "name": "Zain's Dungeon Standoff",
+      "imageUrl": "https://ipfs.io/ipfs/Qmf7n9hiJUr92fkiEw8VTZNyPjJKMiyM76ZqTWNqPXgL4p",
+      "description": "In the eerie glow of a dungeon, he stands resolute, sword in hand, prepared to confront the skeletal adversaries that loom in the shadows. The surreal palette of greens and blues casts an otherworldly light on the scene, highlighting his determined expression and the dynamic tension of the moment. This tableau captures not just a physical battle, but a vivid clash of wills, where ancient bones meet the steely resolve of a knight.",
+      "externalUrl": "https://zain.uncut.network/nft/34361314512",
+      "attributes": [
+        {
+          "value": "Zain",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x18",
+      "name": "Zain's Neon Solitude",
+      "imageUrl": "https://ipfs.io/ipfs/QmRdGMKxRtcKkmwjfXtyiEuE9F9uqpihkTdztto7yRmYG6",
+      "description": "Positioned in a dimly lit alley, the perspective from below accentuates his striking features and the elaborate jewelry adorning his neck, capturing a moment of quiet defiance. The subtle illumination from his cigarette lights up his face, contrasting sharply against the vibrant purple backdrop. His casual yet stylish attire, combined with the angular composition, portrays a man both at ease with himself and in command of his environment.",
+      "externalUrl": "https://zain.uncut.network/nft/34361314515",
+      "attributes": [
+        {
+          "value": "Zain",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x1a",
+      "name": "Zain's Urban Escape",
+      "imageUrl": "https://ipfs.io/ipfs/QmTosMFfLkzRT83wbdUbRmXPUYpFME2KALuSERAFsgfcxi",
+      "description": "Caught in a moment of repose against the rough textures of an alley wall, his gaze is introspective. The surrounding blues and purples set a moody tone, while the smoke from his cigarette dances into the air, adding a layer of transient beauty to the gritty urban landscape.",
+      "externalUrl": "https://zain.uncut.network/nft/34361314517",
+      "attributes": [
+        {
+          "value": "Zain",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x1b",
+      "name": "Zain's Midnight Reflection",
+      "imageUrl": "https://ipfs.io/ipfs/QmYLajDxrs3jraJWBvgJ5MWsghMGqm3ygMfFS1FF1T2BoL",
+      "description": "Illuminated by the harsh contrast of red and blue neon lights in a narrow alley, he stands contemplative, his face partially shadowed yet striking. A gold earring and a spiked collar necklace catch the ambient light, emphasizing his edgy style. The smoke from his cigarette curls upwards, mingling with the urban night air, adding a fleeting, ethereal quality to the scene that captures his complex persona.",
+      "externalUrl": "https://zain.uncut.network/nft/34361314518",
+      "attributes": [
+        {
+          "value": "Zain",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x1c",
+      "name": "Zain's Fractured Prophecy",
+      "imageUrl": "https://ipfs.io/ipfs/QmbC4u17KPPgUUjchiauzwkhKsPxXJPh2iGaFJA7AmGyut",
+      "description": "Amidst a ominous red aura, he holds a cracked orb, its fissures glowing with an ominous light that seems to seep into the surrounding space. The large hoop earrings and multiple necklaces add a rebellious, almost shamanic quality to his persona. The absence of a shirt highlights his raw connection to the mystical energies he commands, enhancing the intensity of the moment as he peers into the fractured depths of the orb, seeking visions or warnings held within its broken expanse.",
+      "externalUrl": "https://zain.uncut.network/nft/34361319869",
+      "attributes": [
+        {
+          "value": "Zain",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x1d",
+      "name": "Zain's Video Debut",
+      "imageUrl": "https://ipfs.io/ipfs/QmYdgYbMa5WN1VTGdGTiyz8G2qJ1QRJZvA9jPuWBPCuU5J",
+      "description": "He’s not just a picture anymore. He can move.",
+      "externalUrl": "https://zain.uncut.network/nft/34361335474",
+      "attributes": [
+        {
+          "value": "Zain",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    }
+  ]
+}

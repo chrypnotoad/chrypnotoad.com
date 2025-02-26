@@ -1,0 +1,154 @@
+{
+  "contractAddress": "0x7C5fb010A40B35d48A82EB879007613F58b43cD2",
+  "collectionName": "Scenes from an Epic",
+  "totalNFTs": 7,
+  "nfts": [
+    {
+      "tokenId": "0x00",
+      "name": "Tooth and Claw Diplomacy",
+      "imageUrl": "https://ipfs.io/ipfs/QmdtJJVKN3J429JQtZvNAKysG8qeHVvZoESBBpNghk1kcT",
+      "description": "The air crackles with tension",
+      "externalUrl": "https://scenes-from-an-epic.uncut.network/nft/34361417754",
+      "attributes": [
+        {
+          "value": "Scenes from an Epic",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x01",
+      "name": "Whispers of the Void",
+      "imageUrl": "https://ipfs.io/ipfs/QmYNJDfC6EgKwxDeHyNh4jW7SakLh2btAa254rLBfGEXb1",
+      "description": "Stand at the precipice of revelation",
+      "externalUrl": "https://scenes-from-an-epic.uncut.network/nft/34361417755",
+      "attributes": [
+        {
+          "value": "Scenes from an Epic",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x02",
+      "name": "Echoes of the Absent",
+      "imageUrl": "https://ipfs.io/ipfs/QmNVTZg8r8uXk69HGRuvFJJP2Nkzco9mW4avvrUAK3ks3v",
+      "description": "The air thrums with anticipation, awaiting the return of something long gone.",
+      "externalUrl": "https://scenes-from-an-epic.uncut.network/nft/34361417757",
+      "attributes": [
+        {
+          "value": "Scenes from an Epic",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x03",
+      "name": "Gateway of the Orphaned Sun",
+      "imageUrl": "https://ipfs.io/ipfs/QmZBkkz7yJgcQb2Vt6erjuYtH6DJD3FXc1ogDQ3UWCgnuU",
+      "description": "The crimson eye stares back, indifferent to the desolation it surveys.",
+      "externalUrl": "https://scenes-from-an-epic.uncut.network/nft/34361417759",
+      "attributes": [
+        {
+          "value": "Scenes from an Epic",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x04",
+      "name": "The Bargain",
+      "imageUrl": "https://ipfs.io/ipfs/QmT3HHFoA91MPKPq2G8uMhx4ZpbDrs3Xzs8oDNdq3DHWZZ",
+      "description": "The prize glimmers, oblivious to the weight of its significance.",
+      "externalUrl": "https://scenes-from-an-epic.uncut.network/nft/34361417761",
+      "attributes": [
+        {
+          "value": "Scenes from an Epic",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x05",
+      "name": "The Flame-Bearer's Ascension",
+      "imageUrl": "https://ipfs.io/ipfs/QmXiSDpYjSDYELkk17rWAhfcymzXjS1uCVGLshxQyTKxnw",
+      "description": "Gilded cross ablaze, legions march through ember-kissed twilight.",
+      "externalUrl": "https://scenes-from-an-epic.uncut.network/nft/34361417762",
+      "attributes": [
+        {
+          "value": "Scenes from an Epic",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x06",
+      "name": "Lanterns in the Sunken Labyrinth",
+      "imageUrl": "https://ipfs.io/ipfs/QmQVtxcKYo4SyWm5FBk71yPdmdLLHDV635ZvyjkChYmFWz",
+      "description": "Whispered plots ripple through jade caverns.",
+      "externalUrl": "https://scenes-from-an-epic.uncut.network/nft/34361417763",
+      "attributes": [
+        {
+          "value": "Scenes from an Epic",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    }
+  ]
+}

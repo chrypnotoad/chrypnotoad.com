@@ -1,0 +1,238 @@
+{
+  "contractAddress": "0x9bbB66dF2c6F2566Ff63976465d85cD73794d001",
+  "collectionName": "Aurelia Prime",
+  "totalNFTs": 11,
+  "nfts": [
+    {
+      "tokenId": "0x00",
+      "name": "Harmony Plaza",
+      "imageUrl": "https://arweave.net/fF0RN9dGy_BWteSSJKvz1FjLfh_FnDlcNxDK7H_TmLI",
+      "description": "This is the heart of our home, where the pulse of Aurelia beats. We gather under the shade of the grand canopies for celebrations and daily exchanges alike.",
+      "externalUrl": "https://aurelia-prime.uncut.network/nft/34361026295",
+      "attributes": [
+        {
+          "value": "Aurelia Prime",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x01",
+      "name": "Cascade City",
+      "imageUrl": "https://arweave.net/-lY7CvySYpAESWFYqwkTJUgWBoTKY-7q_98UiSpbYtY",
+      "description": "Nestled along the life-giving river, our city thrives with the energy of flowing water, connecting us all through its meandering paths.",
+      "externalUrl": "https://aurelia-prime.uncut.network/nft/34361026296",
+      "attributes": [
+        {
+          "value": "Aurelia Prime",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x02",
+      "name": "The Terraces of Aurelia",
+      "imageUrl": "https://arweave.net/JQ1K0hRziV70PAzpPLuJUbkEddI7pd6W0PAUwbXtzn0",
+      "description": "Our homes cascade down the valley, each level a garden more splendid than the last, where the air is filled with the fragrance of blooming flora.",
+      "externalUrl": "https://aurelia-prime.uncut.network/nft/34361026297",
+      "attributes": [
+        {
+          "value": "Aurelia Prime",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x03",
+      "name": "Serene Walk",
+      "imageUrl": "https://arweave.net/0WeCu7o6YV8qp-_XQ2f193QtO1zog9ReQ7-Y7jD-u5M",
+      "description": "Here, where the water's murmur softly speaks, we find solace on the banks of tranquility, a cherished path for contemplation.",
+      "externalUrl": "https://aurelia-prime.uncut.network/nft/34361026298",
+      "attributes": [
+        {
+          "value": "Aurelia Prime",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x04",
+      "name": "Garden Spires",
+      "imageUrl": "https://arweave.net/xgQ9l3-3uMcXK9-BLYqcew9kcFUvidSgtkFZ1YJk3Tk",
+      "description": "Above, our towers rise, adorned with hanging gardens that sway in the breeze. It’s here we live amidst the clouds, in harmony with the sky",
+      "externalUrl": "https://aurelia-prime.uncut.network/nft/34361026300",
+      "attributes": [
+        {
+          "value": "Aurelia Prime",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x05",
+      "name": "Monumental Way",
+      "imageUrl": "https://arweave.net/jMU59gfvnWnR0B8QJ7lUNqvJYqqaS7IMoNtI-xFEvmQ",
+      "description": "Our history is etched in the stones of the boulevard, a testament to our culture’s grandeur, where our ancestors’ feats are honored and celebrated.",
+      "externalUrl": "https://aurelia-prime.uncut.network/nft/34361026331",
+      "attributes": [
+        {
+          "value": "Aurelia Prime",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x06",
+      "name": "Bridgeport Majesty",
+      "imageUrl": "https://arweave.net/YabxEqnBv2kRgXezbI76VSVkjLVYh5cNX8QpUS65fuY",
+      "description": "The bridges are our city's lifelines, grand arcs that connect our community, bustling with the vibrancy of shared journeys and commerce.",
+      "externalUrl": "https://aurelia-prime.uncut.network/nft/34361026332",
+      "attributes": [
+        {
+          "value": "Aurelia Prime",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x07",
+      "name": "The Panorama of Unity",
+      "imageUrl": "https://arweave.net/7Fk15WFF6_3QNQ4V0ol0PXf1-8ouljqTb8x0qhposak",
+      "description": "From this vantage, our world is a tapestry woven from threads of greenery, water, and stone, a single, united view of Aurelia’s splendor.",
+      "externalUrl": "https://aurelia-prime.uncut.network/nft/34361026333",
+      "attributes": [
+        {
+          "value": "Aurelia Prime",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x08",
+      "name": "Agora Shores",
+      "imageUrl": "https://arweave.net/Iv4JuNqs2GdV1DjFDiQPkA_9WH-ynCPZ51pxiTfVaFQ",
+      "description": "The river's edge is where our spirits converge, in the marketplace of ideas and laughter, with the water reflecting our collective joy",
+      "externalUrl": "https://aurelia-prime.uncut.network/nft/34361026420",
+      "attributes": [
+        {
+          "value": "Aurelia Prime",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x09",
+      "name": "Crescent Bay Institute",
+      "imageUrl": "https://arweave.net/ASXXaZrZ8Ear4fGItUE0u5hngf795Zawo7fJAPQ-B8Q",
+      "description": "Gazing upon this grand edifice that stretches along the coast of Crescent Bay, one feels the weight of our civilization's knowledge and wisdom. The central dome, crowned with a ring of silver, rises as the jewel of our collective intellect, housing the vast libraries and research facilities that have propelled Aurelia Prime into the future. Flanked by towering spires, the Institute is where science meets the spirit, where researchers and philosophers alike ponder the mysteries of the cosmos and unlock the secrets of the universe.",
+      "externalUrl": "https://aurelia-prime.uncut.network/nft/34361026446",
+      "attributes": [
+        {
+          "value": "Aurelia Prime",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0a",
+      "name": "Verdant Spires Outlook",
+      "imageUrl": "https://arweave.net/j4oiz9JMdSlgPU6RzJ1xWrrrOt0bAIIAL6-kxkoRZlo",
+      "description": "This is the view from the Verdant Spires Outlook, a place where the majesty of nature and the pinnacle of our architectural achievements exist in perfect symbiosis. These towering structures, capped with domes of vibrant orange, rise like beacons from the lush, flower-draped cliffs of Aurelia Prime. The hanging gardens that grace their sides are not merely for beauty; they are a testament to our dedication to preserving and enhancing the natural world.",
+      "externalUrl": "https://aurelia-prime.uncut.network/nft/34361026451",
+      "attributes": [
+        {
+          "value": "Aurelia Prime",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    }
+  ]
+}

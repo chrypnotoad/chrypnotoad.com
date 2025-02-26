@@ -1,0 +1,1261 @@
+{
+  "contractAddress": "0x9F6c9D945A529177aED9e02806bf107574A0df31",
+  "collectionName": "Niji Guys",
+  "totalNFTs": 62,
+  "nfts": [
+    {
+      "tokenId": "0x00",
+      "name": "Niji Guy #1",
+      "imageUrl": "https://arweave.net/FOVdslG7Ae4EZarcIfdnJ7EZBTGYK0A5-UpvxnkGf0Q",
+      "description": "",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34360948849",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x01",
+      "name": "Niji Guy #2",
+      "imageUrl": "https://arweave.net/Jpo5l9giw3HK55kgn4Ol5ZLQx_wyMeiXv0KbaEXphT8",
+      "description": "",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34360948861",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x02",
+      "name": "#2",
+      "attributes": []
+    },
+    {
+      "tokenId": "0x03",
+      "name": "#3",
+      "attributes": []
+    },
+    {
+      "tokenId": "0x04",
+      "name": "Niji Guy #3",
+      "imageUrl": "https://arweave.net/lZsNJG6_dNStba_7Js9nbK7Z9IEuA4yy_6Dl9DM6-nI",
+      "description": "",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34360948865",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x05",
+      "name": "Niji Guy #4",
+      "imageUrl": "https://arweave.net/Q0oq-7LrreAaY7dsXbeKBo8SAj8Y6vVml7qP9t-FwjY",
+      "description": "",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34360948866",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x06",
+      "name": "Niji Guy #5",
+      "imageUrl": "https://arweave.net/f6KAb-HWdE0uNf1pwYml7KF1XPYxYonLN3ucR7my_lE",
+      "description": "",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34360948868",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x07",
+      "name": "Niji Guy #6",
+      "imageUrl": "https://arweave.net/7zUODsjvFavp-xfazqSCjVIGqHna55PWV3ykZf2zF9E",
+      "description": "",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34360948870",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x08",
+      "name": "Niji Guy #7",
+      "imageUrl": "https://arweave.net/Bw4g9fdri1FxTaMJtP7HprxdWt9WAVPIKP9kf7Q7VIs",
+      "description": "",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34360949875",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x09",
+      "name": "Niji Guy #8",
+      "imageUrl": "https://arweave.net/ubkcbn1wV1lCCJv1B7jVpGV8EpDtUGU9HWANfD2RK5Q",
+      "description": "",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34360949876",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0a",
+      "name": "Niji Guy #9",
+      "imageUrl": "https://arweave.net/iNQZpCjabvuLPG_5uJFf_6CQX62BDG4tDfSxVvqT2tc",
+      "description": "",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34360949879",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0b",
+      "name": "Niji Boy #10",
+      "imageUrl": "https://arweave.net/L8tVOupfasMbP7PH8qfdCrnWqPxV3nhUYWpX_U_Lg0Q",
+      "description": "",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34360949880",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0c",
+      "name": "Niji Guy #11",
+      "imageUrl": "https://arweave.net/ZbMY7ndNP21HsX9eC-qOWTuFn-JCYMb-vkGrpUZ-zXo",
+      "description": "",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34360949881",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0d",
+      "name": "Niji Guy #12",
+      "imageUrl": "https://arweave.net/BKafoen8_F3npXezutuQxGHlAFdcFZ71WsSKLkHjJTg",
+      "description": "",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34360949882",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0e",
+      "name": "Niji Guy #13",
+      "imageUrl": "https://arweave.net/g-f9MohIG3eyJTXhfIajwUTHnYieaZlGRzjQkF-U_kw",
+      "description": "",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34360949883",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0f",
+      "name": "Niji Guy #14",
+      "imageUrl": "https://arweave.net/7juzp8O6ixcU_VDS_13it5Cy0zgAEiRbNHXjdAMNrcI",
+      "description": "",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34360949885",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x10",
+      "name": "Niji Guy #15",
+      "imageUrl": "https://arweave.net/G3zKdRraKZlsy-NdDWDEhwKphWTzBEtHwBvcEvaXFJ0",
+      "description": "",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34360949886",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x11",
+      "name": "Niji Guy #16",
+      "imageUrl": "https://arweave.net/LUt6TDwaYmesHmWmKi-3mhdbeSOlQS5ol3Y0wGAae7g",
+      "description": "",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34360950430",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x12",
+      "name": "Niji Guy #17",
+      "imageUrl": "https://arweave.net/GaTdXrTK3OkGIZsrexfZ_0VQSrtGHti4IPYsc-7if9M",
+      "description": "",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34360950440",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x13",
+      "name": "Niji Guy #18",
+      "imageUrl": "https://arweave.net/K70hAC20YBQ-O_vOn_otgd96vJNGvxLcqV6i_eIr48o",
+      "description": "",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34360950464",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x14",
+      "name": "Niji Guy #19",
+      "imageUrl": "https://arweave.net/L53wYuGtI_7do68FO9-hnBqm3gPc73aKwSvrtIjZQSw",
+      "description": "",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34360950469",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x15",
+      "name": "Niji Guy #20",
+      "imageUrl": "https://arweave.net/Shj7AlYx-IeRrLrAb9av1P0Rj6ExixSA1aty6Oa63c4",
+      "description": "",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34360950478",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x16",
+      "name": "Niji Guy #21",
+      "imageUrl": "https://arweave.net/8smgPf8hNIngTQtU1ST8AnNW2gR5pbWTVm3UPX-uoTE",
+      "description": "",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34360951281",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x17",
+      "name": "Niji Guy #22",
+      "imageUrl": "https://arweave.net/a4tLVB4byqbz_foYQi64OAHmzoODMGCTBhMEzI_QHas",
+      "description": "",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34360951283",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x18",
+      "name": "Niji Guy #23",
+      "imageUrl": "https://arweave.net/rkyTDMT49k7ORm5i1o7pQwwTvAJWkNDJHb2Tf0N-07E",
+      "description": "",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34360951284",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x19",
+      "name": "Niji Guy #24",
+      "imageUrl": "https://arweave.net/qqh37wvotymqwwnUaPsnrvPfhC020VvpdF_AU2Vs8mw",
+      "description": "",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34360951286",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x1a",
+      "name": "Niji Guy #25",
+      "imageUrl": "https://arweave.net/nsck39ay_jVes5zlaNhEonc7l9unPzAFnNzdd5lpF1o",
+      "description": "",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34360951292",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x1b",
+      "name": "Niji Guy #26",
+      "imageUrl": "https://arweave.net/5G6rRMhbfpKUVZQTUU_S1oKHnqxWRnbdD7qcFW5sWzE",
+      "description": "",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34360952148",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x1c",
+      "name": "Niji Guy #27",
+      "imageUrl": "https://arweave.net/3-9MIkJgjhn83IH2GSMXPbXtvXGI6UjkBiV3Fqb5HeU",
+      "description": "",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34360952151",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x1d",
+      "name": "Niji Guy #28",
+      "imageUrl": "https://arweave.net/YfRX6C3wE4dzfkpJNWSJFqqH1_fBcOrNk5V7-sCgvcs",
+      "description": "",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34360952152",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x1e",
+      "name": "Niji Guy #29",
+      "imageUrl": "https://arweave.net/eWW18j5qcFDndD2RlabFpYkfBgJVKzIJXTaCXzIjsOA",
+      "description": "",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34360952153",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x1f",
+      "name": "Niji Guy #30",
+      "imageUrl": "https://arweave.net/U5fNYGm3kyB7GYCjVJcokQqhvFvDszerKuIlBnfhEJc",
+      "description": "",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34360952163",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x20",
+      "name": "Niji Guy #37",
+      "imageUrl": "https://arweave.net/98VZBXd5pRUolclDZnGxm4NrdZ0P8dN3NQ9ePR00eSI",
+      "description": "In a dimension where the cosmos paints itself upon the canvas of reality, there exists a being whose very skin is a tapestry of the universe. Named Lyros, he is the Serenader of the Starlight Veil, a celestial entity whose body resonates with the music of the spheres. His hair, tinted with the blush of supernovas, flows with the cosmic wind that carries the whispers of distant galaxies.\n\nLyros's existence is an enigma, a living constellation wrapped in the brilliance of a star-studded suit that mirrors the infinite. His gaze holds the tranquility of the void, yet his heartbeat is the rhythm that orchestrates the dance of celestial bodies. Lyros weaves the fabric of the night sky around him, singing lullabies to newborn stars and whispering eulogies to the ones returning to dust. With each breath, he exhales nebulae, and with each step, he treads the delicate line between the known and the unknowable.",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34360987926",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x21",
+      "name": "Niji Guy #38",
+      "imageUrl": "https://arweave.net/EhOE6lVrdpOxZGzzDTFyoucuV_ysjesvg5F08lJM-Mg",
+      "description": "In the swirling galaxies, where stars are the anvils of creation, Pyroxis commands the celestial forge. Known as the Stellar Forgemaster, his core burns with the intensity of a supernova, the star on his chest a symbol of his explosive power. Pyroxis is a cosmic entity whose every heartbeat is a drumbeat that echoes in the pulse of nebulas, his hands shaping the raw energies of the universe.\n\nPyroxis's gaze, as piercing as the light of a newborn star, scrutinizes the firmament, seeking out the elements that will birth the next celestial body. His touch ignites the dust of creation, fusing particles into brilliant orbs of light. Under the shadow of his form, matter coalesces and dances to the rhythm of his fiery will.\n\nHis role is paramount; he is the architect of solar systems, the silent sentinel who watches over the growth of galaxies. Each star is a testament to his unyielding will, and each burst of light is a stroke of his indomitable spirit. Pyroxis's existence is dedicated to the cycle of stellar birth and death, his own brilliance a guiding light in the boundless dark, his legacy written in the constellations that grace the canvas of the night.",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34360987927",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x22",
+      "name": "Niji Guy #36",
+      "imageUrl": "https://arweave.net/m_E75W1QEpl-ovkA5h0V1msyKKfc4sDHTaLqTvUgWYA",
+      "description": "In the grand tapestry of the cosmos where celestial entities like Lyros and Remy play their part, there exists Léandre, known amongst the astral beings as the Luminary Cartographer. His essence is interwoven with the same stardust that adorns the skin of his cosmic brethren, and his role is pivotal in the orchestration of the universe’s infinite expanse.\n\nLéandre's domain is the ethereal atlas—a living document that charts the ebb and flow of nebulas, the birth of stars, and the silent waltz of galaxies. His lustrous hair, cascading like the milky way, contains the luminescence of every star ever witnessed by mortal and immortal eyes. His role is to map the pathways of light, the currents of the cosmos, and the hidden routes that connect the constellations.\n\nAs the Luminary Cartographer, Léandre's eyes are trained to see the patterns in the chaos, the order in the nebulous unknown. He sketches the constellations with a hand guided by the pulse of the universe, creating maps that are not merely guides but also the keys to understanding the cosmic song that binds all creation. His maps are coveted, for to hold one is to hold a fragment of the universe’s heart—a guide to navigating the dreams that unfold amidst the interstellar dark.",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34360987925",
+      "attributes": [
+        {
+          "trait_type": "Collection",
+          "value": "Niji Guys"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "chrypnotoad"
+        },
+        {
+          "trait_type": "Scarcity",
+          "value": "Unique"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x23",
+      "name": "Niji Guy #34",
+      "imageUrl": "https://arweave.net/i-gytSeUXJslBcY4a7Qa1WaKaH87DJ5czjMGMVIgyko",
+      "description": "Aurelius, the Luminous Sovereign, bears a celestial mark, a luminous crest that floats above his brow, casting a soft glow reminiscent of a crown made from the very essence of light. This beacon is a symbol of his exalted station as the overseer of the cosmic expanse, a testament to his birth from the heart of a dying star.\n\nAurelius's origin is woven from the fabric of stardust. As a sentinel born from the cataclysmic energies of a supernova, his essence was scattered across the universe, only to coalesce into a being of potent energies and profound duty. He exists as a custodian of the celestial order, a role he upholds with a quiet dignity that resonates through the vacuum of space. His eyes, like twin nebulas, hold the wisdom of millennia, and his gestures command the very forces that bind the galaxies. His solitary existence is not one of loneliness but of purpose; to be the shield against the discord of the cosmos, and the keeper of the universal harmony that whispers through the vast and endless dark. His tale is one of unseen sacrifice, ensuring the celestial dance continues uninterrupted, a dance to the silent rhythm that orchestrates the grand design of existence.",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34360987923",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x24",
+      "name": "Niji Guy #33",
+      "imageUrl": "https://arweave.net/2kqc6_nXK6B-ABB7NqrAeldZL7KBWLeoZfjlNEPQziE",
+      "description": "Eldrian stands at the heart of the cosmos, an imposing figure whose presence is as commanding as the forces he wields. Known as the Cosmic Conductor, his aura is a mesmerizing dance of astral energies, a physical manifestation of the universe's rhythm that swirls around him like a celestial symphony.\n\nWith the flick of his wrist, Eldrian directs the flow of cosmic particles, orchestrating the movement of celestial bodies with the precision of a maestro. His eyes, sharp and penetrating, are like twin stars that have witnessed the unfolding of eons, reflecting a tapestry of countless worlds within their depths.\n\nEldrian's role in the grand design is crucial; he is the keeper of cosmic balance, ensuring that the delicate interplay of gravitational forces and stellar dynamics maintains the harmonious structure of the galaxy. His chains, forged from the core of a neutron star, symbolize the unbreakable bond between creation and its creator.\n\nAs important as he is enigmatic, Eldrian exists in tandem with the very fabric of space-time. His touch can ignite the birth of stars or quell the fury of a raging quasar. To the inhabitants of the universe, he is a legend, a being of unfathomable power who shapes the destiny of the cosmos with an artist's touch and a guardian's resolve. His is the hand that invisibly guides the celestial currents, and his is the will that weaves the fate of all that exists within the infinite expanse.",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34360987922",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x25",
+      "name": "Niji Guy #35",
+      "imageUrl": "https://arweave.net/KeKwm-Z7bYiUuWMeE3qfe7DGhLdbOGS_NmWdaNPDUzw",
+      "description": "In the constellation where stars dance to the music of the cosmos, there resides Elio, the Weaver of Celestial Tapestries. His existence is shrouded in the mysteries of the nebulae, his hands deftly spinning the fates of stars and planets.\n\nElio's red scarf is not a mere piece of cloth; it is a fragment of the primordial flame from which the universe ignited. It billows around his neck, flowing with the currents of space, its patterns mirroring the constellations he so lovingly crafts.\n\nBy day, his piercing gaze surveys the vastness of space, watching over the harmonious movements of celestial bodies. By night, his fingers dance across the loom of darkness, intertwining stardust and cosmic light to create a fabric that holds the heavens together.\n\nHis dark hair, kissed by the shadow of eclipses, falls over his forehead as he works, and his eyes, reflecting the endless depths of space, hold a sparkle of young stars yet to be born. Elio's scarf glows ever so slightly with each new star he weaves into existence, a testament to his never-ending creation.\n\nWhispers among the astral winds speak of his lonely vigil. Yet, Elio finds solace in his eternal task, for he knows that with every thread he weaves, the universe grows ever more beautiful, ever more complex. And so, he continues, a silent guardian draped in the fiery red of creation, weaving the very essence of the cosmos into existence.",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34360987924",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x26",
+      "name": "Niji Guy #39",
+      "imageUrl": "https://arweave.net/_GR9EkyL_r2_Z7Y3mACYKCn1a1uGlkbQbL4_37qxOp8",
+      "description": "Amidst the vast expanse where the silent ballet of celestial bodies unfolds, Reyhan, the Stellar Navigator, holds dominion over the astral currents. His existence is a testament to the luminous threads that connect the constellations, each sparkle on his skin a node in the vast network of celestial routes.\n\nReyhan emerged from a nebular cradle, with a celestial tapestry etched upon his flesh, a living map to hidden corners of the universe. His eyes, mirrors of the universe's soul, have witnessed the silent dances of comets and the secret flares of distant suns.\n\nHis role transcends mere guardianship; he is a cosmic wayfinder, charting paths through the gravitational labyrinths that ensnare the unwary. The bead necklace, strung with fragments of meteorites and cosmic dust, is a symbol of his oath to shepherd the starlight and safeguard the voyagers of the void.\n\nEach pulse of light that courses through him is an echo of ancient supernovae, a rhythm that guides his silent watch over the expansive dark. Reyhan's footsteps are silent but bright, his path illuminated by the stardust that clings to his being.\n\nReyhan, the Stellar Navigator, is the unseen guide, his incandescent spirit a beacon for the star-bound and a sentinel for the cosmic symphony that plays in the boundless dark.",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34360987928",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x27",
+      "name": "Niji Guy #40",
+      "imageUrl": "https://arweave.net/OJ3yPHY80rXQa4g9gclWPPTzUSTHlgsc82RMI7T0C2k",
+      "description": "In the celestial sphere, where the fabric of space-time shimmers with infinite possibilities, there exists a guardian of life's essence. His name is Verdex, the Verdant Warden. With eyes reflecting the verdant hues of the most ancient forests, Verdex holds dominion over the life force that courses through the cosmos.\n\nVerdex's touch awakens the slumbering seeds of barren worlds, coaxing mountains to rise and oceans to stir. His command over the green mantle is unchallenged, for he is the caretaker of cosmic groves—nurseries where newborn stars are cradled by nebulas blooming like cosmic flowers. His presence alone is enough to turn desolation into a haven for life's tender dance.\n\nYet, Verdex's role is not confined to creation alone. He stands as a sentinel against the void's encroaching silence, ensuring that life's chorus resounds through the dark stretches of the universe. His essence is woven into the tapestry of life—a green thread in the cosmic loom that weaves resilience and vitality into the very fabric of existence. With every beat of his heart, a star flickers to life, a testament to his eternal vigil as the cosmos's evergreen protector.",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34360987929",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x28",
+      "name": "Niji Guy #32",
+      "imageUrl": "https://arweave.net/ywqz59eWYyrjRHxjgrZuEAvNKUlHHnC6S6xbM6StbJ4",
+      "description": "From the far reaches of the universe where dreams are woven into reality, comes a being named Eiran, the Envoy of the Celestial Dreamscape. His tawny locks, tousled and wild, carry the stardust of realms where imagination and creation intertwine. Eiran's eyes, a soft azure, hold the depth of the tranquil cosmos, inviting onlookers to get lost in their oceanic calm. As a courier between worlds, he traverses the nebulous boundary of wakefulness and slumber, delivering visions of distant galaxies to the dreamers of Earth. Eiran's presence is a gentle reminder that within every gaze, the universe dreams back at us.",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34360987921",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x29",
+      "name": "Niji Guy #31",
+      "imageUrl": "https://arweave.net/PS0za4PV72BcbZkNT7t6fhlqfCgEdUGKmzToYdait2o",
+      "description": "Amidst the eternal night, a figure stands with a presence as commanding as a supernova. Known as Caden, his essence is like the smoldering core of a star, exuding a heat that is both felt and seen in the glow of his skin. His gaze is resolute, a reflection of the fiery passion that burns at the heart of galaxies. Caden's mantle, adorned with patterns mimicking the celestial pathways, is a testament to his role as the kindler of the stars, the one who stokes the furnaces of the universe, ensuring that the light never fades from the cosmos.",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34360987920",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x2a",
+      "name": "Caden",
+      "imageUrl": "https://arweave.net/eh-Shm0ny2tEopt2UaPOmJX6pwsrtHQ5DP8081PNDdY",
+      "description": "Tempered ready for a night out.",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34361060210",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x2b",
+      "name": "Léandre",
+      "imageUrl": "https://arweave.net/VjAK0chCxv0cCvTgan9uwJavLWUz2I6osGsP7qjysVk",
+      "description": "Feeling the glow.",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34361060211",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x2c",
+      "name": "Guest Star #1",
+      "imageUrl": "https://arweave.net/LkWTJu8ZVM6SQP8mWE8LuG9p0K6squt2bRSNwz2vx0Y",
+      "description": "niji 6 experiments ",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34361060277",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x2d",
+      "name": "Guest Star #3",
+      "imageUrl": "https://arweave.net/fyy2FYlE1wnDjPhxRVtH9m3PbEa17kksMIeogtGEKic",
+      "description": "niji 6 experiments",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34361060594",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x2e",
+      "name": "Guest Star #4",
+      "imageUrl": "https://arweave.net/6YVBMgmV-orBACkBlvwZvhmN5AYVCxlK5pqqYXOq6aM",
+      "description": "niji 6 experiments",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34361060595",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x2f",
+      "name": "Guest Star #5",
+      "imageUrl": "https://arweave.net/C8JqE9JwK0RXKmSK9u21u1Qs95OkfMT3p5pCUqat9Xg",
+      "description": "niji 6 experiments",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34361060596",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x30",
+      "name": "Guest Star #2",
+      "imageUrl": "https://arweave.net/ESfzeCWGs_JJVJiuWNgWTZ7rkCJ0bUnBp1zZKbVB87k",
+      "description": "niji 6 experiments",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34361060598",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x31",
+      "name": "Guest Star #6",
+      "imageUrl": "https://arweave.net/LEfI5J8NARAvU6PLY-zWSJnCXZzwvSCkSLF_Qe4o71Q",
+      "description": "niji 6 experiments",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34361060599",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x32",
+      "name": "Guest Star #7",
+      "imageUrl": "https://arweave.net/JYCvu4gKegvCD_VcHplEikEMVknFRaaXWuqkrk9CNwE",
+      "description": "niji 6 experiments",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34361060600",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x33",
+      "name": "Guest Star #9",
+      "imageUrl": "https://arweave.net/QPwUpisXrfMFDFVN2ulNegJ-d9VCJYM0wFpSLx04v9E",
+      "description": "niji 6 experiments",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34361060602",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x34",
+      "name": "Guest Star #X",
+      "imageUrl": "https://arweave.net/8YtCMnD8uEoH05gnSqzDuTFnSFOW_KRTONvvtCXuooU",
+      "description": "niji 6 experiments",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34361060603",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x35",
+      "name": "Guest Star #8",
+      "imageUrl": "https://arweave.net/rKDACLrNeZIDpTyYPIFqIA1_eSRZEpYF68_9RaQYPOs",
+      "description": "niji 6 experiments",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34361060601",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x36",
+      "name": "Guest Star #11",
+      "imageUrl": "https://arweave.net/_qAmYYh3GHeraxAp3g5_ZMDg_m7vi1gKePHdgdiX0Sk",
+      "description": "niji 6 experiments",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34361060605",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x37",
+      "name": "Guest Star #12",
+      "imageUrl": "https://arweave.net/eBTsQy6Lh6V891iDTXTEbpH3J7mw1AUheZLBGHcNt-s",
+      "description": "niji 6 experiments",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34361060606",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x38",
+      "name": "Guest Star #13",
+      "imageUrl": "https://arweave.net/cqO7IhIw0TPvD16rPYJYsvca8sYuEvQLMAxJFdkKp9E",
+      "description": "niji 6 experiments",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34361060607",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x39",
+      "name": "Guest Star #14",
+      "imageUrl": "https://arweave.net/xrGehz9gkONXGK34srk3HoZfs4HjJL97gKwDYANFQQo",
+      "description": "niji 6 experiments",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34361060608",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x3a",
+      "name": "Guest Star #15",
+      "imageUrl": "https://arweave.net/QHEE70nyiRGpHmP6RYp6sK-1ucXuCqcRMlQIQQxx-OQ",
+      "description": "niji 6 experiments",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34361060609",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x3b",
+      "name": "Guest Star #16",
+      "imageUrl": "https://arweave.net/GPfRHtiZfshS6zuM37Ja_Sp4XRocVXzn-SYBKNLwSCU",
+      "description": "niji 6 experiments ",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34361060614",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x3c",
+      "name": "#60",
+      "attributes": []
+    },
+    {
+      "tokenId": "0x3d",
+      "name": "Guest Star #17",
+      "imageUrl": "https://arweave.net/6OEDTINS5voRQrVeNjYc8vc-W6dNgZ__RTtvkEXLB7Q",
+      "description": "niji 6 experiments",
+      "externalUrl": "https://niji-guys.uncut.network/nft/34361060616",
+      "attributes": [
+        {
+          "value": "Niji Guys",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    }
+  ]
+}

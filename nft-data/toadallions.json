@@ -1,0 +1,133 @@
+{
+  "contractAddress": "0x5F0233f9dd9D3660026EbE66d3F81590c98F8f85",
+  "collectionName": "Toadallions",
+  "totalNFTs": 6,
+  "nfts": [
+    {
+      "tokenId": "0x00",
+      "name": "Todallion #1",
+      "imageUrl": "https://arweave.net/wTfzA_ScGrZ2QfEyIQ2OWaHDPlm98SnBgb7WKzaJcoQ",
+      "description": "midjourney prompt:\n\n> glossy medallion high gloss enamel hypnotoad retrofuture 70s vibe bolotie --niji 6\n\n\\\n",
+      "externalUrl": "https://toadallions.uncut.network/nft/34361061802",
+      "attributes": [
+        {
+          "value": "Toadallions",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Epic",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x01",
+      "name": "Todallion #2",
+      "imageUrl": "https://arweave.net/-iAUxlqMuSAGtJrPFtEPbm7Ncl-4WFyLfL0JlNUAJv0",
+      "description": "midjourney prompt:\n\n> glossy medallion high gloss enamel hypnotoad retrofuture 70s vibe bolotie --niji 6\n\n\\\n",
+      "externalUrl": "https://toadallions.uncut.network/nft/34361061803",
+      "attributes": [
+        {
+          "value": "Toadallions",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x02",
+      "name": "Todallion #4",
+      "imageUrl": "https://arweave.net/pDlvOA6XVvPLLw8nk_UlRIyHCKN-BgGZoXEyXtOO6Kw",
+      "description": "midjourney prompt:\n\n> glossy medallion high gloss enamel hypnotoad retrofuture 70s vibe bolotie --niji 6\n\n\\\n",
+      "externalUrl": "https://toadallions.uncut.network/nft/34361061804",
+      "attributes": [
+        {
+          "value": "Toadallions",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x03",
+      "name": "Todallion #3",
+      "imageUrl": "https://arweave.net/ZttMSXeTlPLUQfEbVFwRBWUr-h2x9BkYZwkI7e5ErPw",
+      "description": "midjourney prompt:\n\n> glossy medallion high gloss enamel hypnotoad retrofuture 70s vibe bolotie --niji 6\n\n\\\n",
+      "externalUrl": "https://toadallions.uncut.network/nft/34361061805",
+      "attributes": [
+        {
+          "value": "Toadallions",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x04",
+      "name": "Todallion #5",
+      "imageUrl": "https://arweave.net/5KaDA0K8CFTi1Ibz0MVnRj8FODS7woeQJnhJJO-xSgc",
+      "description": "midjourney prompt:\n\n> glossy medallion high gloss enamel hypnotoad retrofuture 70s vibe bolotie --niji 6\n\n\\\n",
+      "externalUrl": "https://toadallions.uncut.network/nft/34361061806",
+      "attributes": [
+        {
+          "value": "Toadallions",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x05",
+      "name": "Todallion #5",
+      "imageUrl": "https://arweave.net/gK-cJVmm4qxdOMZrJzoguzDIk3i7PecVQTa25qKwddE",
+      "description": "midjourney prompt:\n\n> glossy medallion high gloss enamel hypnotoad retrofuture 70s vibe bolotie --niji 6\n\n\\\n",
+      "externalUrl": "https://toadallions.uncut.network/nft/34361061807",
+      "attributes": [
+        {
+          "value": "Toadallions",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    }
+  ]
+}

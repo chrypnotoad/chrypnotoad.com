@@ -1,0 +1,469 @@
+{
+  "contractAddress": "0x452293A72660627b23cAa502E3119c4279C1c76A",
+  "collectionName": "Celestial Dreamscapes",
+  "totalNFTs": 22,
+  "nfts": [
+    {
+      "tokenId": "0x00",
+      "name": "celestial dreamscapes",
+      "imageUrl": "https://arweave.net/KWrqe4tpyv4nEMRn1I_jHl9Eqn-LoEDuFOw-S1KFWcc",
+      "description": "canvas of cosmos",
+      "externalUrl": "https://celestial-dreamscapes.uncut.network/nft/34360998530",
+      "attributes": [
+        {
+          "value": "Celestial Dreamscapes",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x01",
+      "name": "celestial dreamscapes",
+      "imageUrl": "https://arweave.net/81dVCE_mjFxTjmKC3mahTIwUcinPvw56vc3dZFRbUAU",
+      "description": "canvas of cosmos",
+      "externalUrl": "https://celestial-dreamscapes.uncut.network/nft/34360998531",
+      "attributes": [
+        {
+          "value": "Celestial Dreamscapes",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x02",
+      "name": "celestial dreamscapes",
+      "imageUrl": "https://arweave.net/twdGZ7llbIok6Tt_vyaoJG_UMdrXXqL3h5WvnNxhsCo",
+      "description": "canvas of cosmos",
+      "externalUrl": "https://celestial-dreamscapes.uncut.network/nft/34360998532",
+      "attributes": [
+        {
+          "value": "Celestial Dreamscapes",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x03",
+      "name": "celestial dreamscapes",
+      "imageUrl": "https://arweave.net/ylRi5D1ePQUjq33FqbIOr4V3141pTKWuoR1MrEjS4R8",
+      "description": "canvas of cosmos",
+      "externalUrl": "https://celestial-dreamscapes.uncut.network/nft/34360998533",
+      "attributes": [
+        {
+          "value": "Celestial Dreamscapes",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x04",
+      "name": "celestial dreamscapes",
+      "imageUrl": "https://arweave.net/1Rf_IknZbEgPj_-OOUD8gyrYx8sIaoW17FnNyqQuiaA",
+      "description": "canvas of cosmos",
+      "externalUrl": "https://celestial-dreamscapes.uncut.network/nft/34360998534",
+      "attributes": [
+        {
+          "value": "Celestial Dreamscapes",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x05",
+      "name": "celestial dreamscapes",
+      "imageUrl": "https://arweave.net/qkyD5A3-ueAyEJ6F993-YJnincVtpJahOvZiT3usO88",
+      "description": "canvas of cosmos",
+      "externalUrl": "https://celestial-dreamscapes.uncut.network/nft/34360998535",
+      "attributes": [
+        {
+          "value": "Celestial Dreamscapes",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x06",
+      "name": "celestial dreamscapes",
+      "imageUrl": "https://arweave.net/eWnXtM9ZGgT6BwservVI28LHJNsdzr9uSQt6srVDio8",
+      "description": "canvas of cosmos",
+      "externalUrl": "https://celestial-dreamscapes.uncut.network/nft/34360998536",
+      "attributes": [
+        {
+          "value": "Celestial Dreamscapes",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x07",
+      "name": "celestial dreamscapes",
+      "imageUrl": "https://arweave.net/RN9dNyHjnazTmkNo5PL-ZYbIby36lwE2uj03HpKO2ew",
+      "description": "canvas of cosmos",
+      "externalUrl": "https://celestial-dreamscapes.uncut.network/nft/34360998537",
+      "attributes": [
+        {
+          "value": "Celestial Dreamscapes",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x08",
+      "name": "celestial dreamscapes",
+      "imageUrl": "https://arweave.net/B8nwfX_oZPIgRmf7raKrmNiZuDdMlmKAZelPC2v8ftA",
+      "description": "canvas of cosmos",
+      "externalUrl": "https://celestial-dreamscapes.uncut.network/nft/34360998538",
+      "attributes": [
+        {
+          "value": "Celestial Dreamscapes",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x09",
+      "name": "cosmic peaks",
+      "imageUrl": "https://arweave.net/zXkyxFPStlWHcY17WwlEWk_WaJtUFvPbvFW8K_L28Bk",
+      "description": "Beneath a veil of cosmic dust and stellar light, A portrait emerges, a blend of day and night. Mountain crests with snowcaps bright, Merge with stars that stud the twilight.\n\n\\\nHer gaze, a nebula birthed anew, Whispers secrets in hues of blue. A universe within, a silent roar, Boundless beauty, an astral shore.\n\n\\\nNow, distilling essence into brevity’s art: In her cosmic gaze, galaxies dance and depart.",
+      "externalUrl": "https://celestial-dreamscapes.uncut.network/nft/34360998539",
+      "attributes": [
+        {
+          "value": "Celestial Dreamscapes",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0a",
+      "name": "celestial dreamscapes",
+      "imageUrl": "https://arweave.net/zBfYzjZyjidKmLtWmJVzhbMwmgJ2_4-8DS-H7pwiYR0",
+      "description": "canvas of cosmos",
+      "externalUrl": "https://celestial-dreamscapes.uncut.network/nft/34361020957",
+      "attributes": [
+        {
+          "value": "Celestial Dreamscapes",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0b",
+      "name": "celestial dreamscapes",
+      "imageUrl": "https://arweave.net/Z2AXF3god8s7EQlXHO6o0EFfH_x-R1cMKZegqQSDwVo",
+      "description": "canvas of cosmos",
+      "externalUrl": "https://celestial-dreamscapes.uncut.network/nft/34361020958",
+      "attributes": [
+        {
+          "value": "Celestial Dreamscapes",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0c",
+      "name": "celestial dreamscapes",
+      "imageUrl": "https://arweave.net/n8CIhCkg0YHgo6cGhw1LmLSBLhml2o24Afz3pDmg4ZA",
+      "description": "canvas of cosmos",
+      "externalUrl": "https://celestial-dreamscapes.uncut.network/nft/34361020959",
+      "attributes": [
+        {
+          "value": "Celestial Dreamscapes",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0d",
+      "name": "reality goggles",
+      "imageUrl": "https://arweave.net/v37bATTlmUfEr5XsV20A4SHi0pgyc6XxrQfB4anfahw",
+      "description": "canvas of cosmos",
+      "externalUrl": "https://celestial-dreamscapes.uncut.network/nft/34361020960",
+      "attributes": [
+        {
+          "value": "Celestial Dreamscapes",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Epic",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0e",
+      "name": "Visions of bloom",
+      "imageUrl": "https://arweave.net/UJjI9B-W5ygKTPpTGmIumlFBmt6orKnHKUlVjdx55rw",
+      "description": "Sight Through Nature's Lens",
+      "externalUrl": "https://celestial-dreamscapes.uncut.network/nft/34361022370",
+      "attributes": [
+        {
+          "value": "Celestial Dreamscapes",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0f",
+      "name": "Galactic Gaze",
+      "imageUrl": "https://arweave.net/FdhDyH0F0Qqy5Bdo0f7PAT_i16edl6b_HkMC0fdPKcE",
+      "description": "A Floral Odyssey",
+      "externalUrl": "https://celestial-dreamscapes.uncut.network/nft/34361054909",
+      "attributes": [
+        {
+          "value": "Celestial Dreamscapes",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x10",
+      "name": "Green with envy",
+      "imageUrl": "https://arweave.net/Gr1NVSrbI13r1UPL-MjAZ7yWzdkOBnm_L0Iuf-NTETA",
+      "description": "Lust for gold.",
+      "externalUrl": "https://celestial-dreamscapes.uncut.network/nft/34361054940",
+      "attributes": [
+        {
+          "value": "Celestial Dreamscapes",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x11",
+      "name": "You Are A Singularity ",
+      "imageUrl": "https://arweave.net/nL2Oew4f_dqDyujCyrszKm9jrI_lb6Wl-LaONGJbxAE",
+      "description": "Not born from dust, nor bound by skin, \n\nWithin your gaze, galaxies spin.\n\n\\\n\n---\n\n🗝️ Collect the original for the password.\n\n<https://celestial-dreamscapes.uncut.network/nft/34360998530>",
+      "externalUrl": "https://celestial-dreamscapes.uncut.network/nft/34361055093",
+      "attributes": [
+        {
+          "value": "Celestial Dreamscapes",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x12",
+      "name": "Neon Canary",
+      "imageUrl": "https://arweave.net/CDq34PaPR0wokrYLejWGYh-vToKskJZ1UNjSJ8hq3vc",
+      "description": "Seek out the silent threats in the binary haze",
+      "externalUrl": "https://celestial-dreamscapes.uncut.network/nft/34361059696",
+      "attributes": [
+        {
+          "value": "Celestial Dreamscapes",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x13",
+      "name": "Visions of Visions",
+      "imageUrl": "https://arweave.net/j-MK4PlAgply9fLMPp3oRzOfNQSqFMKw9kYgLrxbVgk",
+      "description": "**Entry for the Epic Prompt Battle #36: \\[Surreal Mixed Collage\\]**\n\n\\\nmulti modal mixed generative media collage ",
+      "externalUrl": "https://celestial-dreamscapes.uncut.network/nft/34361060188",
+      "attributes": [
+        {
+          "value": "Celestial Dreamscapes",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x14",
+      "name": "Storm's Coming",
+      "imageUrl": "https://arweave.net/F6arRMVVAU9WaOlZHjmSATylwXmr8_lRZk7CcgkL9cI",
+      "description": "Under the endless expanse of the blue, amongst the whispers of the winds and the distant hum of propellers, there was a legend known by every soul that dared dance with the clouds. They called her \"Tempest Tessa,\" the fearless aviatrix whose eyes gleamed like the storm's edge behind her aviator goggles.\n\nShe was a vision of boldness, adorned in a flight jacket that bloomed with colors so vivid that they rivaled the flowers of the fields over which she soared. Her helmet, as fiery as a sunset, was a beacon of her unyielding spirit.\n\nTales of Tessa's exploits stretched far and wide, as did the stories of her uncanny ability to predict the weather. Some said it was the lightning that whispered its secrets to her, its reflections caught in her goggles for just a moment before she darted through the heavens.\n\nThe day \"Storm's Coming\" became the title of her legend was much like any other, save for the ominous gathering of clouds on the horizon. The airfield was abuzz; pilots grounded their planes, and the skies cleared as that familiar tingle of electricity filled the air.\n\nBut not Tessa.\n\nWith a smirk playing upon her lips and a glint in her eye, she adjusted her goggles, climbed into her trusty aircraft, and took to the skies. For she knew the language of the tempest, the song of the gales, and the embrace of the wild wind. And as the first clap of thunder rolled over the fields, \"Tempest Tessa\" became one with the storm, her plane a mere silhouette against the gathering fury.\n\nTo this day, when the clouds darken and the air thrums with the promise of nature's spectacle, the old-timers smile and say, \"Storm's coming,\" and their eyes flicker to the heavens, half-expecting to see Tessa, the mistress of the tempest, racing the wind once more.",
+      "externalUrl": "https://celestial-dreamscapes.uncut.network/nft/34361069732",
+      "attributes": [
+        {
+          "value": "Celestial Dreamscapes",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x15",
+      "name": "Lost In Another Vibe",
+      "imageUrl": "https://arweave.net/BVmw8MNDdLfVqjUng_aHWAQ9Nm_QMR46HfXfiK3t8l0",
+      "description": "Lost in a world on a pane of glass.",
+      "externalUrl": "https://celestial-dreamscapes.uncut.network/nft/34361072722",
+      "attributes": [
+        {
+          "value": "Celestial Dreamscapes",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Epic",
+          "trait_type": "Scarcity"
+        }
+      ]
+    }
+  ]
+}

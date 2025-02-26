@@ -1,0 +1,469 @@
+{
+  "contractAddress": "0x47B3526d4Ea7ab30e37b5e3bf631037909981c29",
+  "collectionName": "David",
+  "totalNFTs": 23,
+  "nfts": [
+    {
+      "tokenId": "0x00",
+      "name": "Florescent Florence",
+      "imageUrl": "https://arweave.net/P7p1b3OQcfyXZMaxdc8_hmb-gamdoCRfOVWV6TfQE-8",
+      "description": "A symbol of beauty, strength, and city's pride.",
+      "externalUrl": "https://david.uncut.network/nft/34361060633",
+      "attributes": [
+        {
+          "value": "David",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x01",
+      "name": "Swords of David #1",
+      "imageUrl": "https://arweave.net/WQgsCcBhyLT00TZjRhQWi6qIYXMcodJNbS5w_tLJmNI",
+      "description": "It cut through doubt, and fear's ensnaring mire. \\n Each swing, a verse of an unyielding song,",
+      "externalUrl": "https://david.uncut.network/nft/34361060634",
+      "attributes": [
+        {
+          "value": "David",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x02",
+      "name": "Swords of David #2",
+      "imageUrl": "https://arweave.net/ofMw6lMAatEqf5DYmB3DoXVbmbOlk-B-XX4ICEICYWI",
+      "description": "In David's grasp, it danced like morning's first ray, \\n Turning night's dark terror to the light of day.",
+      "externalUrl": "https://david.uncut.network/nft/34361060635",
+      "attributes": [
+        {
+          "value": "David",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x03",
+      "name": "Swords of David #3",
+      "imageUrl": "https://arweave.net/Nd3Io-PADYvitYh_b_H7Ju-qNNRdCnSLIG2J0c8hD08",
+      "description": "More than steel and fight, \\n A beacon of eternal, blazing light.",
+      "externalUrl": "https://david.uncut.network/nft/34361060636",
+      "attributes": [
+        {
+          "value": "David",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x04",
+      "name": "Swords of David #4",
+      "imageUrl": "https://arweave.net/lsPY16E3mR7reBaXn7BvFtVRRvRPUu7YiSRpJhLnXfw",
+      "description": "Not mere metal, but fire, star, and stone, \\n Bound together with courage, flesh, and bone.",
+      "externalUrl": "https://david.uncut.network/nft/34361060637",
+      "attributes": [
+        {
+          "value": "David",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x05",
+      "name": "Swords of David #5",
+      "imageUrl": "https://arweave.net/MkT3IKZ2jUQIWKLFINDMnTnVlkHtNlamI7yA3ysgMpk",
+      "description": "This sword did gleam with heaven's holy light. \\n A symbol of the strength that one can wield,",
+      "externalUrl": "https://david.uncut.network/nft/34361060638",
+      "attributes": [
+        {
+          "value": "David",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x06",
+      "name": "Swords of David #6",
+      "imageUrl": "https://arweave.net/5C0uRMJ3iYAR9M42NQUWFkGTAXlkmKOSRgA_gm5v4vA",
+      "description": "Sapphires blue, gleamed with a light of an ethereal hue.",
+      "externalUrl": "https://david.uncut.network/nft/34361060639",
+      "attributes": [
+        {
+          "value": "David",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x07",
+      "name": "Swords of David #7",
+      "imageUrl": "https://arweave.net/LeZkfjJ_m3oYzFOrp7fw0uH6Dw7e826b_sds8aL1jMM",
+      "description": "With every foe it met in strife, \\n It sang a song of eternal life.",
+      "externalUrl": "https://david.uncut.network/nft/34361060640",
+      "attributes": [
+        {
+          "value": "David",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x08",
+      "name": "Swords of David #8",
+      "imageUrl": "https://arweave.net/AL1S7iDOfqvcwov6cDfxaqDZBTgZj6wKs3teJbXnG2c",
+      "description": "Upon its blade, a tale was told, \\n Of battles fierce and heroes bold.",
+      "externalUrl": "https://david.uncut.network/nft/34361060642",
+      "attributes": [
+        {
+          "value": "David",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x09",
+      "name": "Swords of David #9",
+      "imageUrl": "https://arweave.net/KBsd-xktuQqBUSyY8Yf61i7Swc37fgHgWLsVHglQSLQ",
+      "description": "A symbol of the courage that never dies. \\n More than a weapon, a legend, a guide,",
+      "externalUrl": "https://david.uncut.network/nft/34361060643",
+      "attributes": [
+        {
+          "value": "David",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0a",
+      "name": "Swords of David #10",
+      "imageUrl": "https://arweave.net/lwcNHQunSHTsDcjf23SNs5OX9GN5xZiLhUTXQTgMtfA",
+      "description": "A dance of fury, light, and sound, \\n Wherever this holy blade was found.",
+      "externalUrl": "https://david.uncut.network/nft/34361060645",
+      "attributes": [
+        {
+          "value": "David",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0b",
+      "name": "Swords of David #11",
+      "imageUrl": "https://arweave.net/iVoJIWHDprmuKaFd_fnk5_IjocyRVaQtR3F63SaTsJs",
+      "description": "In David's hand, it roared like thunder,\n\nTearing asunder, foes torn asunder.",
+      "externalUrl": "https://david.uncut.network/nft/34361060646",
+      "attributes": [
+        {
+          "value": "David",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0c",
+      "name": "Swords of David #12",
+      "imageUrl": "https://arweave.net/yjXsTJ58wPJ-v5HmCpQ8u78Cg0FFkFJ5p10Nm0ZcpU8",
+      "description": "Crafted from gold, beyond compare. \\n A tapestry of light, in metal spun, \\n Gleaming like the rays of the morning sun.",
+      "externalUrl": "https://david.uncut.network/nft/34361060651",
+      "attributes": [
+        {
+          "value": "David",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0d",
+      "name": "Swords of David #13",
+      "imageUrl": "https://arweave.net/cwzmIZS_7z6MxXIXXD_Ibc48d0xQOenkFVLzj3lCKmc",
+      "description": "In cosmos clasped, a blade alight, \\n David stands, a starry knight. \\n Sword of gold, in firm command, \\n Guardian of a celestial land.",
+      "externalUrl": "https://david.uncut.network/nft/34361060654",
+      "attributes": [
+        {
+          "value": "David",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0e",
+      "name": "Swords of David #14",
+      "imageUrl": "https://arweave.net/yIm_aCNhT9Xpq7c8bS3uXAuavKkzxtdOqueO5TwvJLg",
+      "description": "In stardust veiled, his blade does part, \\n The night's canvas, a work of art. \\n Through cosmic sea, it cleaves its silent chart, \\n David's steel, a celestial heart.",
+      "externalUrl": "https://david.uncut.network/nft/34361060656",
+      "attributes": [
+        {
+          "value": "David",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0f",
+      "name": "Swords of David #15",
+      "imageUrl": "https://arweave.net/QA3wljbRS3FqDM99od6Z2DwoUYnFA9-YkcnCM1CK6EU",
+      "description": "Seraphim's flame, in Eden's guard, \\n Blade of the highest heavenly bard.",
+      "externalUrl": "https://david.uncut.network/nft/34361060658",
+      "attributes": [
+        {
+          "value": "David",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x10",
+      "name": "Swords of David #16",
+      "imageUrl": "https://arweave.net/8CS_2qcKyTe5ILGhE-49XDyaMjq1tAsH0EUCbLh3Tsk",
+      "description": "Golden guardian, starlit sheath, \\n David's grip a cosmic oath.",
+      "externalUrl": "https://david.uncut.network/nft/34361060661",
+      "attributes": [
+        {
+          "value": "David",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x11",
+      "name": "Swords of David #17",
+      "imageUrl": "https://arweave.net/tEs62rC0YRcipGjPdKf4kQRBxgcnXeSitxWivtMcSS8",
+      "description": "Ablaze in glory, the sword ascends, \\n 'Gainst azure sky where day contends. \\n David's might, in fiery plumes,",
+      "externalUrl": "https://david.uncut.network/nft/34361060662",
+      "attributes": [
+        {
+          "value": "David",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x12",
+      "name": "Swords of David #18",
+      "imageUrl": "https://arweave.net/ukPDhwSHPFyh41_8AHtOgCqxlJrIuuUWwq8kE7qOiKc",
+      "description": "In fiery silhouette, a cosmos combusts. \\n Victory's blaze in David's firm hold, \\n A dance of sparks in the night, bold.",
+      "externalUrl": "https://david.uncut.network/nft/34361060663",
+      "attributes": [
+        {
+          "value": "David",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x13",
+      "name": "Swords of David #19",
+      "imageUrl": "https://arweave.net/M1Lz0kYKGyt_fwaj0D28IqwoHn_I8FHalAcb_hHkp9g",
+      "description": "Star-kissed blade, aloft and clear, \\n David's stance, the heavens revere. \\n A beacon bright in night's serene shroud, \\n Sword to sky, in triumph avowed.",
+      "externalUrl": "https://david.uncut.network/nft/34361060664",
+      "attributes": [
+        {
+          "value": "David",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x14",
+      "name": "Swords of David #20",
+      "imageUrl": "https://arweave.net/Upe_DNxZgDQBo2H8tXLKX-uAUeEPb7Q8jj0XPiPiUFk",
+      "description": "Neon glow on a night so still, \\n David's form, a silent thrill. \\n Sword of light, in firm clasp held, \\n Guarding dreams the stars have spelled.",
+      "externalUrl": "https://david.uncut.network/nft/34361060667",
+      "attributes": [
+        {
+          "value": "David",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x16",
+      "name": "Star-kissed blade, aloft and clear",
+      "imageUrl": "https://arweave.net/_ykcsW6uLLG95KqpFBDv3_pt2T_yqr5-fpGhqj7P4Ts",
+      "description": "Star-kissed blade, aloft and clear,  \\n David's stance, the heavens revere.  \\n A beacon bright in night's serene shroud,  \\n Sword to sky, in triumph avowed.\n\n\\\nGuardian's glow 'gainst the cosmic gleam, \n\nBattles won in the celestial dream.\n\n Honor's silhouette on the twilight's edge,\n\n A hero's oath, an eternal pledge.",
+      "externalUrl": "https://david.uncut.network/nft/34361069750",
+      "attributes": [
+        {
+          "value": "David",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    }
+  ]
+}

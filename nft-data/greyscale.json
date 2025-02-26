@@ -1,0 +1,1041 @@
+{
+  "contractAddress": "0x577494BF916189d60Dbe84F0c6Af7FB049Ea6834",
+  "collectionName": "greyscale",
+  "totalNFTs": 50,
+  "nfts": [
+    {
+      "tokenId": "0x00",
+      "name": "#1",
+      "imageUrl": "https://ipfs.io/ipfs/QmaSgz4jWWppUEKMRNncSQH8XM5c8aNNiwuDZRLcEsp4GJ",
+      "description": ":yin_yang:",
+      "externalUrl": "https://greyscale.uncut.network/nft/34361420651",
+      "attributes": [
+        {
+          "value": "greyscale",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x01",
+      "name": "#2",
+      "imageUrl": "https://ipfs.io/ipfs/QmTAZpT2TsnVste4Ty1LX6BX3gaSVH84N1tREKH19nrmyD",
+      "description": ":yin_yang:",
+      "externalUrl": "https://greyscale.uncut.network/nft/34361420652",
+      "attributes": [
+        {
+          "value": "greyscale",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x02",
+      "name": "#3",
+      "imageUrl": "https://ipfs.io/ipfs/Qma2DVr3dQdrGLjvWqZw7iMGQTPXobKjmGQKt3ZsuCFgpi",
+      "description": ":yin_yang:",
+      "externalUrl": "https://greyscale.uncut.network/nft/34361420653",
+      "attributes": [
+        {
+          "value": "greyscale",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x03",
+      "name": "#4",
+      "imageUrl": "https://ipfs.io/ipfs/Qmec3cxahXnJK1h28WQ17DHRdhvLarNTwk3bpVBboetxjh",
+      "description": ":yin_yang:",
+      "externalUrl": "https://greyscale.uncut.network/nft/34361420659",
+      "attributes": [
+        {
+          "value": "greyscale",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x04",
+      "name": "#5",
+      "imageUrl": "https://ipfs.io/ipfs/QmSoB5H2YSAxhYSpJE2FFXLaSvTFp1iSrZu1kUkV1HcfuB",
+      "description": ":yin_yang:",
+      "externalUrl": "https://greyscale.uncut.network/nft/34361420660",
+      "attributes": [
+        {
+          "value": "greyscale",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x05",
+      "name": "#6",
+      "imageUrl": "https://ipfs.io/ipfs/Qmd96FsUtZWrWLsmSPqpM7poa1DkpCgKeDDKJA3KSB2CmE",
+      "description": ":yin_yang:",
+      "externalUrl": "https://greyscale.uncut.network/nft/34361420661",
+      "attributes": [
+        {
+          "value": "greyscale",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x06",
+      "name": "#7",
+      "imageUrl": "https://ipfs.io/ipfs/QmV3gAS5XhNpFaQA3CsgPnFXQZLaXeJUnceJFQWvDK6pGm",
+      "description": ":yin_yang:",
+      "externalUrl": "https://greyscale.uncut.network/nft/34361420662",
+      "attributes": [
+        {
+          "value": "greyscale",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x07",
+      "name": "#8",
+      "imageUrl": "https://ipfs.io/ipfs/QmYLq3KJA8p3DoQTg9zXBxbjBnb75brfEuuUa6d1LyyytB",
+      "description": ":yin_yang:",
+      "externalUrl": "https://greyscale.uncut.network/nft/34361421888",
+      "attributes": [
+        {
+          "value": "greyscale",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x08",
+      "name": "#9",
+      "imageUrl": "https://ipfs.io/ipfs/QmSjdfMc6EWfX3HBmUm5qcfouC1gzMoLh5PpqW38ntR32E",
+      "description": "🧙‍♂️",
+      "externalUrl": "https://greyscale.uncut.network/nft/34361421889",
+      "attributes": [
+        {
+          "value": "greyscale",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x09",
+      "name": "#10",
+      "imageUrl": "https://ipfs.io/ipfs/QmYGgjntT8N7DKK5AodS2SMFfU6tYpsygf8QcQatKinLXs",
+      "description": "☯️",
+      "externalUrl": "https://greyscale.uncut.network/nft/34361421890",
+      "attributes": [
+        {
+          "value": "greyscale",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0a",
+      "name": "#11",
+      "imageUrl": "https://ipfs.io/ipfs/QmajNwDchQJMmEivpBEsVuB8qw1imawUY8ZPKmP9soqJGa",
+      "description": "🔮",
+      "externalUrl": "https://greyscale.uncut.network/nft/34361422849",
+      "attributes": [
+        {
+          "value": "greyscale",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0b",
+      "name": "#12",
+      "imageUrl": "https://ipfs.io/ipfs/QmVf4WDQ7Gc8UnSt4st5tcksWTqtSSQaNhVXXM4EE4AYmB",
+      "description": "⚡",
+      "externalUrl": "https://greyscale.uncut.network/nft/34361422850",
+      "attributes": [
+        {
+          "value": "greyscale",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0c",
+      "name": "#13",
+      "imageUrl": "https://ipfs.io/ipfs/QmWdWoLvAG6MmmSGYGyFkhBfWu1TDZsAoXhcMFdXAFn7rq",
+      "description": "⚡",
+      "externalUrl": "https://greyscale.uncut.network/nft/34361422851",
+      "attributes": [
+        {
+          "value": "greyscale",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0d",
+      "name": "#14",
+      "imageUrl": "https://ipfs.io/ipfs/Qmaj9F4hfZrLX91hBoc4Vpw8PCJXXTkEm75yXbRHoPCU8j",
+      "description": "☯️",
+      "externalUrl": "https://greyscale.uncut.network/nft/34361422853",
+      "attributes": [
+        {
+          "value": "greyscale",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0e",
+      "name": "#15",
+      "imageUrl": "https://ipfs.io/ipfs/QmRwqWCVww29smT4YGxfM9t2Qv2gTer99SNxkC79zywLV6",
+      "description": "☯️",
+      "externalUrl": "https://greyscale.uncut.network/nft/34361422860",
+      "attributes": [
+        {
+          "value": "greyscale",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0f",
+      "name": "#16",
+      "imageUrl": "https://ipfs.io/ipfs/QmeeLt8JduGj4gqhFghWkXVKKT4i4h6WdiBhYtvtxbDr5m",
+      "description": "☯️",
+      "externalUrl": "https://greyscale.uncut.network/nft/34361422861",
+      "attributes": [
+        {
+          "value": "greyscale",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x10",
+      "name": "#17",
+      "imageUrl": "https://ipfs.io/ipfs/QmXB3BiYo7k1UP4xF3UwU5DRnGBg23HYDNpCCffy91tuVr",
+      "description": "☯️",
+      "externalUrl": "https://greyscale.uncut.network/nft/34361422862",
+      "attributes": [
+        {
+          "value": "greyscale",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x11",
+      "name": "#18",
+      "imageUrl": "https://ipfs.io/ipfs/QmPLaFcjvGjikdkqVFHtckBi8ER5KzRzRGUi4phPA88ZBs",
+      "description": "☯️",
+      "externalUrl": "https://greyscale.uncut.network/nft/34361422863",
+      "attributes": [
+        {
+          "value": "greyscale",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x12",
+      "name": "#19",
+      "imageUrl": "https://ipfs.io/ipfs/QmQAxYqybNhYhFkfMQnN47DT2wfTZhga2ztf9oE5EUomB7",
+      "description": "☯️",
+      "externalUrl": "https://greyscale.uncut.network/nft/34361422864",
+      "attributes": [
+        {
+          "value": "greyscale",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x13",
+      "name": "#20",
+      "imageUrl": "https://ipfs.io/ipfs/QmQSFtgfhH2sdNawxncyYmh7kmC852WauQzRucVD4QsZRk",
+      "description": "☯️",
+      "externalUrl": "https://greyscale.uncut.network/nft/34361422865",
+      "attributes": [
+        {
+          "value": "greyscale",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x14",
+      "name": "#21",
+      "imageUrl": "https://ipfs.io/ipfs/QmVRsioJdcFZFnnSxmcaYgGZYycNNTB9zUWG1iGbNvwiah",
+      "description": "☯️",
+      "externalUrl": "https://greyscale.uncut.network/nft/34361422872",
+      "attributes": [
+        {
+          "value": "greyscale",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x15",
+      "name": "#22",
+      "imageUrl": "https://ipfs.io/ipfs/QmWzfQreTfb9sxwXRR9PW4N3tfc1aHNT1hwznmc9Y18j79",
+      "description": "☯️",
+      "externalUrl": "https://greyscale.uncut.network/nft/34361422873",
+      "attributes": [
+        {
+          "value": "greyscale",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x16",
+      "name": "#23",
+      "imageUrl": "https://ipfs.io/ipfs/QmXhEtBFSXgbmp9kPwp34PY5QsykvUZsYa3g4vfgvr2cPG",
+      "description": "☯️",
+      "externalUrl": "https://greyscale.uncut.network/nft/34361422874",
+      "attributes": [
+        {
+          "value": "greyscale",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x17",
+      "name": "#24",
+      "imageUrl": "https://ipfs.io/ipfs/QmPg4ZDptkGLHcxVFWUFn88AsYYxDLG2xx9SwfdZYR9rrr",
+      "description": "☯️",
+      "externalUrl": "https://greyscale.uncut.network/nft/34361422875",
+      "attributes": [
+        {
+          "value": "greyscale",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x18",
+      "name": "#25",
+      "imageUrl": "https://ipfs.io/ipfs/QmcHuXuLhVmaK6veC9LVjHLwwduhBwfrwSWFotmneUT4hC",
+      "description": "☯️",
+      "externalUrl": "https://greyscale.uncut.network/nft/34361422876",
+      "attributes": [
+        {
+          "value": "greyscale",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x19",
+      "name": "#26",
+      "imageUrl": "https://ipfs.io/ipfs/QmYDJCutoU5GnuZzJXZssduzx3qxscGGsvsVTevEMvzXiS",
+      "description": "☯️",
+      "externalUrl": "https://greyscale.uncut.network/nft/34361422877",
+      "attributes": [
+        {
+          "value": "greyscale",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x1a",
+      "name": "#27",
+      "imageUrl": "https://ipfs.io/ipfs/QmTSBCLJnvo6umTm1yTHfnPe7G6coudXdtPHmTTbCv4EGb",
+      "description": "☯️",
+      "externalUrl": "https://greyscale.uncut.network/nft/34361422878",
+      "attributes": [
+        {
+          "value": "greyscale",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x1b",
+      "name": "#28",
+      "imageUrl": "https://ipfs.io/ipfs/QmfH28f1CAAFNq6JMfCQYdVc1jkCjmPJmE9zQHXmn9W2oa",
+      "description": "☯️",
+      "externalUrl": "https://greyscale.uncut.network/nft/34361422879",
+      "attributes": [
+        {
+          "value": "greyscale",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x1c",
+      "name": "#29",
+      "imageUrl": "https://ipfs.io/ipfs/QmPsDLZHgeGgZsqXGE4N58W2VY61mB7yWnWE19VmB1EjCs",
+      "description": "☯️",
+      "externalUrl": "https://greyscale.uncut.network/nft/34361422880",
+      "attributes": [
+        {
+          "value": "greyscale",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x1d",
+      "name": "#30",
+      "imageUrl": "https://ipfs.io/ipfs/QmS48b2EsutiTrJUiNDxAADTr61343TB9sQAnJKvbh4pYL",
+      "description": "☯️",
+      "externalUrl": "https://greyscale.uncut.network/nft/34361422881",
+      "attributes": [
+        {
+          "value": "greyscale",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x1e",
+      "name": "#31",
+      "imageUrl": "https://ipfs.io/ipfs/QmeAryLaivyB16QZ9R4EKYFvBnhgmZgsxxrjvBMgsAx3Xd",
+      "description": "☯️",
+      "externalUrl": "https://greyscale.uncut.network/nft/34361422883",
+      "attributes": [
+        {
+          "value": "greyscale",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x1f",
+      "name": "#32",
+      "imageUrl": "https://ipfs.io/ipfs/QmZN4Cz4bD5SXEgCvmTWymf4bxVUd8dsdaSskphHgNio9F",
+      "description": "☯️",
+      "externalUrl": "https://greyscale.uncut.network/nft/34361422884",
+      "attributes": [
+        {
+          "value": "greyscale",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x20",
+      "name": "#33",
+      "imageUrl": "https://ipfs.io/ipfs/QmWsJJBjhsGZnUasunodR4R1BwpWdC5x1E7uaCgyimMRKp",
+      "description": "☯️",
+      "externalUrl": "https://greyscale.uncut.network/nft/34361422885",
+      "attributes": [
+        {
+          "value": "greyscale",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x21",
+      "name": "#34",
+      "imageUrl": "https://ipfs.io/ipfs/QmWiUoVy3y32JC4f7nP1KD4GP76R7JrJSqKcMgetdLEkzn",
+      "description": "😈",
+      "externalUrl": "https://greyscale.uncut.network/nft/34361422886",
+      "attributes": [
+        {
+          "value": "greyscale",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x22",
+      "name": "#35",
+      "imageUrl": "https://ipfs.io/ipfs/Qmd7WbYvVHdRMYm6Ygwi3NrcxZpGn7SJDnjnJE3yz7ncYY",
+      "description": "🌞",
+      "externalUrl": "https://greyscale.uncut.network/nft/34361422887",
+      "attributes": [
+        {
+          "value": "greyscale",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x23",
+      "name": "#36",
+      "imageUrl": "https://ipfs.io/ipfs/QmVCvWfw74DEKPRfBMBH8Gjo7UfKwKQdJfL8gZipr8iD3L",
+      "description": "💀",
+      "externalUrl": "https://greyscale.uncut.network/nft/34361422888",
+      "attributes": [
+        {
+          "value": "greyscale",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x24",
+      "name": "#37",
+      "imageUrl": "https://ipfs.io/ipfs/QmXWCN8cTvZkdyZerxA57Y2K7NNZtg9LUCGvtYHnqEXEXs",
+      "description": "⚡",
+      "externalUrl": "https://greyscale.uncut.network/nft/34361422890",
+      "attributes": [
+        {
+          "value": "greyscale",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x25",
+      "name": "#38",
+      "imageUrl": "https://ipfs.io/ipfs/QmYYW9Rq3iYPJB18fLJf2dS4rC85U4Z3sUw7sVavnHdu9B",
+      "description": "🔦",
+      "externalUrl": "https://greyscale.uncut.network/nft/34361422891",
+      "attributes": [
+        {
+          "value": "greyscale",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x26",
+      "name": "#39",
+      "imageUrl": "https://ipfs.io/ipfs/QmbennQtSuSWWGKa4hVuvUXbiSD3YQoPkVzqmofHjSDWbA",
+      "description": "🦚",
+      "externalUrl": "https://greyscale.uncut.network/nft/34361422892",
+      "attributes": [
+        {
+          "value": "greyscale",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x27",
+      "name": "#39",
+      "attributes": []
+    },
+    {
+      "tokenId": "0x28",
+      "name": "#40",
+      "imageUrl": "https://ipfs.io/ipfs/QmP6DiWsh9SQ6h5WdB3mn7Ze4qRa646cAmqeemQ3LivvSC",
+      "description": "⭕",
+      "externalUrl": "https://greyscale.uncut.network/nft/34361422894",
+      "attributes": [
+        {
+          "value": "greyscale",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x29",
+      "name": "#41",
+      "imageUrl": "https://ipfs.io/ipfs/QmVuRGs9aUBvGaZd6EQjtbbMwrv3DGNPt9noebHxLPG1np",
+      "description": "👐",
+      "externalUrl": "https://greyscale.uncut.network/nft/34361423177",
+      "attributes": [
+        {
+          "value": "greyscale",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x2a",
+      "name": "#42",
+      "imageUrl": "https://ipfs.io/ipfs/QmTWudnAmMiNjRM4tWR3cxxY51NK3MWCNeTawhxzLbqqj9",
+      "description": "☯️",
+      "externalUrl": "https://greyscale.uncut.network/nft/34361423178",
+      "attributes": [
+        {
+          "value": "greyscale",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x2b",
+      "name": "#43",
+      "imageUrl": "https://ipfs.io/ipfs/QmZaCKwXjMX7JgMw8MjiDLiUjdcErNtez3uY7gCTDK3kAJ",
+      "description": "💀",
+      "externalUrl": "https://greyscale.uncut.network/nft/34361423198",
+      "attributes": [
+        {
+          "value": "greyscale",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x2c",
+      "name": "#44",
+      "imageUrl": "https://ipfs.io/ipfs/QmNztMWyv2qwH13ERPeYAMvahTyEW8cgq7vXXGJ46vzJbS",
+      "description": "💀",
+      "externalUrl": "https://greyscale.uncut.network/nft/34361423199",
+      "attributes": [
+        {
+          "value": "greyscale",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x2d",
+      "name": "#45",
+      "imageUrl": "https://ipfs.io/ipfs/Qmce9dCAjK7x58pJCnSJ9nsydmX5scZ5b1YYnhqxJmhY8L",
+      "description": "💀",
+      "externalUrl": "https://greyscale.uncut.network/nft/34361423200",
+      "attributes": [
+        {
+          "value": "greyscale",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x2e",
+      "name": "#46",
+      "imageUrl": "https://ipfs.io/ipfs/Qmavng8P243VY4UJmc7rXBbUZqDMvfXXpDMff6z67EZLWD",
+      "description": "💀",
+      "externalUrl": "https://greyscale.uncut.network/nft/34361423202",
+      "attributes": [
+        {
+          "value": "greyscale",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x2f",
+      "name": "#47",
+      "imageUrl": "https://ipfs.io/ipfs/QmeY5qdTt8uWAuDuYgVBchehmG9xLoZusib4oxUrmPbq8z",
+      "description": "💀",
+      "externalUrl": "https://greyscale.uncut.network/nft/34361423203",
+      "attributes": [
+        {
+          "value": "greyscale",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x30",
+      "name": "#48",
+      "imageUrl": "https://ipfs.io/ipfs/QmQF4io4M2DdsoysxtBJGgwBbaMMojMwGqvpAnkN3jyhwt",
+      "description": "💀",
+      "externalUrl": "https://greyscale.uncut.network/nft/34361423204",
+      "attributes": [
+        {
+          "value": "greyscale",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x31",
+      "name": "#49",
+      "imageUrl": "https://ipfs.io/ipfs/QmZKVUcDZkxnns2zkmebsnEzQ16o2pnXvuZ2zjVyGbjn6k",
+      "description": "⚡",
+      "externalUrl": "https://greyscale.uncut.network/nft/34361423206",
+      "attributes": [
+        {
+          "value": "greyscale",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    }
+  ]
+}

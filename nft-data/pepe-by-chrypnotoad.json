@@ -1,0 +1,1130 @@
+{
+  "contractAddress": "0x8E6b41f1593228f9441c6cef20E555Ed7F33a24B",
+  "collectionName": "Pepe by Chrypnotoad",
+  "totalNFTs": 55,
+  "nfts": [
+    {
+      "tokenId": "0x00",
+      "name": "Pepe says Fuck You",
+      "imageUrl": "https://arweave.net/W5BMn15ccec3-R42ftqR7hSZQ3X2ulhtuuok3YSEVIU",
+      "description": "",
+      "externalUrl": "https://pepe-by-chrypnotoad.uncut.network/nft/34360948785",
+      "attributes": [
+        {
+          "value": "Pepe by Chrypnotoad",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x01",
+      "name": "The void screams back",
+      "imageUrl": "https://arweave.net/Mh2SiF9Tqu_y3O1Ekw7x9zVV28z-mGnQrfv6nDbBIwI",
+      "description": "",
+      "externalUrl": "https://pepe-by-chrypnotoad.uncut.network/nft/34360948786",
+      "attributes": [
+        {
+          "value": "Pepe by Chrypnotoad",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x02",
+      "name": "Learning about rate limits",
+      "imageUrl": "https://arweave.net/fWzJ0uod1NYtk6HRHdckU8vSBCKOUmaZyoEdk3hWf4k",
+      "description": "",
+      "externalUrl": "https://pepe-by-chrypnotoad.uncut.network/nft/34360948787",
+      "attributes": [
+        {
+          "value": "Pepe by Chrypnotoad",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x03",
+      "name": "Intergalactic Pizza Party",
+      "imageUrl": "https://arweave.net/tSyhjBBBJCf6sxv9m99GdOdnYvA_HvYY815LE3BarbE",
+      "description": "",
+      "externalUrl": "https://pepe-by-chrypnotoad.uncut.network/nft/34360948788",
+      "attributes": [
+        {
+          "value": "Pepe by Chrypnotoad",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Epic",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x04",
+      "name": "Sprinkle of Chaos",
+      "imageUrl": "https://arweave.net/FuyluzqpXyW8gcmpCO36l1UoQjexLMq8td5EgsZG79E",
+      "description": "",
+      "externalUrl": "https://pepe-by-chrypnotoad.uncut.network/nft/34360948796",
+      "attributes": [
+        {
+          "value": "Pepe by Chrypnotoad",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x05",
+      "name": "Sir Alexander Pepe",
+      "imageUrl": "https://arweave.net/dV-Amg7jzoGqSi9zk9exE_7xAytdyHypAL25F1EPUcs",
+      "description": "",
+      "externalUrl": "https://pepe-by-chrypnotoad.uncut.network/nft/34360948802",
+      "attributes": [
+        {
+          "value": "Pepe by Chrypnotoad",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x06",
+      "name": "Pumpkin Spiced Pepe",
+      "imageUrl": "https://arweave.net/CmkHrwIpwjqHf-11dslqxJ0yESa4C1NZtIHUoy8Ccx8",
+      "description": "",
+      "externalUrl": "https://pepe-by-chrypnotoad.uncut.network/nft/34360948805",
+      "attributes": [
+        {
+          "value": "Pepe by Chrypnotoad",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Epic",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x07",
+      "name": "Stoic Pepe",
+      "imageUrl": "https://arweave.net/czXW-WMEqg9mAJOdCjS0j30DCaez8Tol8Xn4x-QFwB0",
+      "description": "",
+      "externalUrl": "https://pepe-by-chrypnotoad.uncut.network/nft/34360948809",
+      "attributes": [
+        {
+          "value": "Pepe by Chrypnotoad",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x08",
+      "name": "#8",
+      "attributes": []
+    },
+    {
+      "tokenId": "0x09",
+      "name": "Niji Guy 3",
+      "imageUrl": "https://arweave.net/jylmpShpwAl-mogAe6Ow0BM-bC4yPZZVz4XKweMYmkk",
+      "description": "",
+      "externalUrl": "https://pepe-by-chrypnotoad.uncut.network/nft/34360948857",
+      "attributes": [
+        {
+          "value": "Pepe by Chrypnotoad",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0a",
+      "name": "#10",
+      "attributes": []
+    },
+    {
+      "tokenId": "0x0b",
+      "name": "Self Reflection",
+      "imageUrl": "https://arweave.net/t0o87-8gmJCKEQ4hXNTuOofS7BU31vWEP1aYuHN7OGY",
+      "description": "",
+      "externalUrl": "https://pepe-by-chrypnotoad.uncut.network/nft/34360948926",
+      "attributes": [
+        {
+          "value": "Pepe by Chrypnotoad",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0c",
+      "name": "The Lotus Throne",
+      "imageUrl": "https://arweave.net/VMXUHLH3XtdvK20tsSDHErBjzb3witDoCBdDIVVv700",
+      "description": "",
+      "externalUrl": "https://pepe-by-chrypnotoad.uncut.network/nft/34360948936",
+      "attributes": [
+        {
+          "value": "Pepe by Chrypnotoad",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0d",
+      "name": "Hold World In Pepe's Hands",
+      "imageUrl": "https://arweave.net/kcFglDuqXe5PjJyR-k86KQsBrG5Uqw6IptOROi4tF6c",
+      "description": "",
+      "externalUrl": "https://pepe-by-chrypnotoad.uncut.network/nft/34360948938",
+      "attributes": [
+        {
+          "value": "Pepe by Chrypnotoad",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0e",
+      "name": "Airdropped Lisa",
+      "imageUrl": "https://arweave.net/r7QTAy8Rr1cNLUtfL8WkGRkT_cGTzWT0VbcK7Rp1Emw",
+      "description": "",
+      "externalUrl": "https://pepe-by-chrypnotoad.uncut.network/nft/34360949836",
+      "attributes": [
+        {
+          "value": "Pepe by Chrypnotoad",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0f",
+      "name": "Sky-high sneakers",
+      "imageUrl": "https://arweave.net/HsF01RJSP7pnte1ayTOR9SIiVUB22tbdMiMpEQEeR6E",
+      "description": "",
+      "externalUrl": "https://pepe-by-chrypnotoad.uncut.network/nft/34360949840",
+      "attributes": [
+        {
+          "value": "Pepe by Chrypnotoad",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x10",
+      "name": "Pepe's Moment of Reverie: Admiring 'Reflective Amphibians",
+      "imageUrl": "https://arweave.net/cC5QlnbHUBl1qlia02DzKAiV-iovGEJvJ6nzxXZebbw",
+      "description": "",
+      "externalUrl": "https://pepe-by-chrypnotoad.uncut.network/nft/34360949872",
+      "attributes": [
+        {
+          "value": "Pepe by Chrypnotoad",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x11",
+      "name": "Pepe unwinds",
+      "imageUrl": "https://arweave.net/CrXkUbv6Tpk6wYGPzOs3iR_f8tIBgTSkYZIX7o00QaU",
+      "description": "",
+      "externalUrl": "https://pepe-by-chrypnotoad.uncut.network/nft/34360949887",
+      "attributes": [
+        {
+          "value": "Pepe by Chrypnotoad",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x12",
+      "name": "Find Balance",
+      "imageUrl": "https://arweave.net/kEq8UEpXne4cf018TXemMA4gIhRO2wqGKoeIWmZTUns",
+      "description": "",
+      "externalUrl": "https://pepe-by-chrypnotoad.uncut.network/nft/34360949890",
+      "attributes": [
+        {
+          "value": "Pepe by Chrypnotoad",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x13",
+      "name": "I Am A Pretty Frog",
+      "imageUrl": "https://arweave.net/KdqNJohvK2LwbnH2jc9eW6_eu4Kd3Dwhb9YnBq2z4Y4",
+      "description": "",
+      "externalUrl": "https://pepe-by-chrypnotoad.uncut.network/nft/34360949893",
+      "attributes": [
+        {
+          "value": "Pepe by Chrypnotoad",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x14",
+      "name": "Wake Up Sydney",
+      "imageUrl": "https://arweave.net/P_BnrBLhKx2FqitmL35auSSv5m1hutTf9nHsT2Z6D88",
+      "description": "",
+      "externalUrl": "https://pepe-by-chrypnotoad.uncut.network/nft/34360949896",
+      "attributes": [
+        {
+          "value": "Pepe by Chrypnotoad",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x15",
+      "name": "🖤💛ANiMA-Yellow",
+      "imageUrl": "https://arweave.net/7fyKR_PfQXSZ9mfuxUDVFXFjMbKCpOuIt-aAwRroZfg",
+      "description": "",
+      "externalUrl": "https://pepe-by-chrypnotoad.uncut.network/nft/34360950002",
+      "attributes": [
+        {
+          "value": "Pepe by Chrypnotoad",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x16",
+      "name": "Contemplation before the Crimson Enigma",
+      "imageUrl": "https://arweave.net/u7SntIvcbcx7WIvzIXhJjZy_1n-WthVUNKHwnouRcVk",
+      "description": "",
+      "externalUrl": "https://pepe-by-chrypnotoad.uncut.network/nft/34360950495",
+      "attributes": [
+        {
+          "value": "Pepe by Chrypnotoad",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x17",
+      "name": "Pepe's Cosmic Concert",
+      "imageUrl": "https://arweave.net/euUNmk8_fHGJDjscNc_eqQS1lAjSpAR9_LrFvy1CoyA",
+      "description": "",
+      "externalUrl": "https://pepe-by-chrypnotoad.uncut.network/nft/34360951310",
+      "attributes": [
+        {
+          "value": "Pepe by Chrypnotoad",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x18",
+      "name": "Pixel Pals: Pepe and Kernelillokp's Arcade Adventure",
+      "imageUrl": "https://arweave.net/1Eocg_fgesKmrB---tu30j1BuIMFcqpgb4Oh211OC0w",
+      "description": "",
+      "externalUrl": "https://pepe-by-chrypnotoad.uncut.network/nft/34360951327",
+      "attributes": [
+        {
+          "value": "Pepe by Chrypnotoad",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x19",
+      "name": "Pepe's Tribute to Florence's Palette",
+      "imageUrl": "https://arweave.net/mSRiAHc00KQ7FI4BM_pemxmT78dbIPRRVvwkLwFcZT0",
+      "description": "",
+      "externalUrl": "https://pepe-by-chrypnotoad.uncut.network/nft/34360951480",
+      "attributes": [
+        {
+          "value": "Pepe by Chrypnotoad",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x1a",
+      "name": "Pepe the collector",
+      "imageUrl": "https://arweave.net/Ek6WWvSRmTNRcgwHHC-nLQ9iz6ty5mZqnzgCRN9MIzY",
+      "description": "",
+      "externalUrl": "https://pepe-by-chrypnotoad.uncut.network/nft/34360952167",
+      "attributes": [
+        {
+          "value": "Pepe by Chrypnotoad",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x1b",
+      "name": "Pepe's Dreamy Slumber with the UniFroge",
+      "imageUrl": "https://arweave.net/s5MaI3UTuV6LT3yHYaA1dKph9BYr0NYpcM_9qrHrm6U",
+      "description": "",
+      "externalUrl": "https://pepe-by-chrypnotoad.uncut.network/nft/34360952577",
+      "attributes": [
+        {
+          "value": "Pepe by Chrypnotoad",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x1c",
+      "name": "Pepe with a Pearl Earing",
+      "imageUrl": "https://arweave.net/RXhyaWdtom4BdCNoF9uWf98XUuIRFriAn7FRJ94ybwQ",
+      "description": "",
+      "externalUrl": "https://pepe-by-chrypnotoad.uncut.network/nft/34360952586",
+      "attributes": [
+        {
+          "value": "Pepe by Chrypnotoad",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x1d",
+      "name": "Pepe's Secret Painting",
+      "imageUrl": "https://arweave.net/RI0-Fq6SsoC7UeH62mXYyBSUsS98i9RbTDgSjaaPeZc",
+      "description": "",
+      "externalUrl": "https://pepe-by-chrypnotoad.uncut.network/nft/34360952621",
+      "attributes": [
+        {
+          "value": "Pepe by Chrypnotoad",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x1e",
+      "name": "Pepe's Pioneering Plunge into Uncut.network",
+      "imageUrl": "https://arweave.net/PnmEjz8Raqjk0F-JVy4z5e-kMZXE-HEAOfajydbM6k4",
+      "description": "",
+      "externalUrl": "https://pepe-by-chrypnotoad.uncut.network/nft/34360955750",
+      "attributes": [
+        {
+          "value": "Pepe by Chrypnotoad",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x1f",
+      "name": "Dolma's Vision: The Tale of Ramen-Eyed Pepe",
+      "imageUrl": "https://arweave.net/bZchDaoRXi3gbdMoxQ6NPpqTFie4sqkBRsYvqIZgA4o",
+      "description": "",
+      "externalUrl": "https://pepe-by-chrypnotoad.uncut.network/nft/34360956446",
+      "attributes": [
+        {
+          "value": "Pepe by Chrypnotoad",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x20",
+      "name": "Go Aloeidae!",
+      "imageUrl": "https://arweave.net/c6QLHC0Y8_fNDOPtjeM9cSzwKaaAeNeB5DetVbCgD6s",
+      "description": "Cheers to a new year!",
+      "externalUrl": "https://pepe-by-chrypnotoad.uncut.network/nft/34360963024",
+      "attributes": [
+        {
+          "value": "Pepe by Chrypnotoad",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x21",
+      "name": ">ssh into my heart",
+      "imageUrl": "https://arweave.net/Juri_pqJI_XdlniDBbabuJgobE1fmepb35bHvx_jgzc",
+      "description": "Yo, it's me, Pepe! \n\n\\\nSo, check it out – there I was, chillin' in my digital dojo, surrounded by retro tech and bathed in the neon glow of cyber dreams. My digits danced across the keyboard like a DJ spinning beats at a frog pond. I was hacking away, tryin' to bypass the firewalls to the most secure place of all – someone's heart.\n\nEach command was a beat, every keystroke a melody, as I tunneled through layers of code. It was like composing a love song in binary, ya dig? And just when the console beeped with that sweet, sweet success, I realized, the real connection wasn't through cables, but through those little moments of shared laughter and winks between the lines of code.\n\nSo yeah, I may be a tech-savvy amphibian, but I learned it's not just about breaking through security barriers. It's about finding someone who lets you SSH into their heart, no password required. Keep it cool, keep it hoppy, and remember – the best encryption is a smile, folks! \n\n\\\n🐸💚🖥️",
+      "externalUrl": "https://pepe-by-chrypnotoad.uncut.network/nft/34360982968",
+      "attributes": [
+        {
+          "value": "Pepe by Chrypnotoad",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x22",
+      "name": "JUST ALE𝕏IS",
+      "imageUrl": "https://arweave.net/UhxSnGGPtZJ8SckG64J0yz6kohhyHzqv6aTthtWINgs",
+      "description": "Best sloth e-girl on the web",
+      "externalUrl": "https://pepe-by-chrypnotoad.uncut.network/nft/34361054617",
+      "attributes": [
+        {
+          "value": "Pepe by Chrypnotoad",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x23",
+      "name": "The Toad Strikes Again",
+      "imageUrl": "https://arweave.net/fva0HLk2x_zn_3ie6VTVdEdrIgpZdHSqNRY4iFHdYpA",
+      "description": "In the darkness of the night, a hero appears Chrypntoad, with powers that strike fear With a croak, he leaps into the unknown To protect the city, he's never alone (ooh-yeah)\n\n \n\nThe Toad strikes again, with an iron will He's the hero we need, no one can match his skill With his webbed feet and a mighty leap Chrypntoad, the city's savior, the legend we keep (ooh-yeah, he's the Toad)",
+      "externalUrl": "https://pepe-by-chrypnotoad.uncut.network/nft/34361055123",
+      "attributes": [
+        {
+          "value": "Pepe by Chrypnotoad",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Epic",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x24",
+      "name": "GM 🤤",
+      "imageUrl": "https://arweave.net/_UeSvNBwYq8I1gukzcJ8xy4ObyeUNKd2toWCW3zuI0c",
+      "description": "Pepe is here but he’s not really HERE HERE.",
+      "externalUrl": "https://pepe-by-chrypnotoad.uncut.network/nft/34361065693",
+      "attributes": [
+        {
+          "value": "Pepe by Chrypnotoad",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x25",
+      "name": "Buff Pepe",
+      "imageUrl": "https://arweave.net/sfPfYJwM5-wg7a3-ik14zNRqqsNaOeG1KrXg6qzFEuk",
+      "description": "Just don’t mess with the toad.",
+      "externalUrl": "https://pepe-by-chrypnotoad.uncut.network/nft/34361065694",
+      "attributes": [
+        {
+          "value": "Pepe by Chrypnotoad",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x26",
+      "name": "Pepe ✌️",
+      "imageUrl": "https://arweave.net/d3bxGPetAbZd9MXx3B10Bh0tQ1AMfnu6opwZz0hC6BY",
+      "description": "In sunglasses cool, a smile on his face.\n\nOrange puffed jacket, a bright, bold embrace,\n\nPep throws up a peace sign, with charm, not a trace.\n\n\\\n",
+      "externalUrl": "https://pepe-by-chrypnotoad.uncut.network/nft/34361065696",
+      "attributes": [
+        {
+          "value": "Pepe by Chrypnotoad",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Epic",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x27",
+      "name": "Relaxed Pepe 😎",
+      "imageUrl": "https://arweave.net/TXPHyEo5qPOw2tdTLJds2uhNfoLLRLIp9lO6s_kWqn4",
+      "description": "You know, life's too short to be hopping around in a frenzy. I've got my red threads on, shades so I can watch the day roll by without getting blinded by the hustle. I just lean back, cross my arms, and take it all in.\n\nThe city's buzzing around me, but I'm in my own little bubble of chill. I feel the warmth of the sun, the cool breeze—it's like nature's giving me a little nod, saying, \"You've got it figured out, my dude.\"\n\nSo here I am, just being. Not every frog’s gotta be about that fly-catching life. Sometimes, it's about catching rays, not the buzz. That's my story, just a simple frog living in the moment. \n\n\\\nEasy does it, my friends, easy does it.\n\n\\\n* Pepe 🐸\n\n\\\n",
+      "externalUrl": "https://pepe-by-chrypnotoad.uncut.network/nft/34361065699",
+      "attributes": [
+        {
+          "value": "Pepe by Chrypnotoad",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x28",
+      "name": " Grumpy Pepe",
+      "imageUrl": "https://arweave.net/qna3cZLJVM4KBUufoGOxEgiT7pPzvE2HQQu-PB9eRq8",
+      "description": "Name's Grumpy Pepe. And yeah, you got it, I'm not your usual happy-go-lucky frog. I'm the one you find in the back of the room with crossed arms and a raised brow. I don’t do the hustle, I don’t chase the wind. I’m just here, soaking in this green-tinted world, watching the parade go by.\n\nYou see, it ain’t all sunshine and rainbows in Pepe town. Sometimes you gotta show 'em that stern face, that you mean business, that you’re not one to be trifled with. They say a picture's worth a thousand words? Well, my scowl's worth a million.\n\nDon’t get me wrong, I ain't mad, I'm just... contemplative. Life’s a complex pond, and I’m just a frog trying to make sense of the ripples. So here I stand, in my golden hoodie, arms folded, watching, waiting, contemplating the lily pads of life.\n\n\\\n* Pepe 🐸\n\n\\\n",
+      "externalUrl": "https://pepe-by-chrypnotoad.uncut.network/nft/34361065700",
+      "attributes": [
+        {
+          "value": "Pepe by Chrypnotoad",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x29",
+      "name": "Pensive Pepe",
+      "imageUrl": "https://arweave.net/MQwvMWLIhok9vCOnjhCHlIKUJPWlCdsDT5ApxUVRBuo",
+      "description": "As I sit here, chin in hand, I'm not just watching the day go by—I'm philosophizing about the flies and the skies. Why rush, when you can take a moment to just be?\n\nLife’s a contemplative journey, and I'm here to soak in every note. So here's to thinking deep, to the quiet moments that let you leap. That's my vibe, just a frog and his thoughts, chillin' in this golden light.\n\n* Pepe 🐸\n\n\\\n",
+      "externalUrl": "https://pepe-by-chrypnotoad.uncut.network/nft/34361065701",
+      "attributes": [
+        {
+          "value": "Pepe by Chrypnotoad",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x2a",
+      "name": "To Pepe or Not to Pepe",
+      "imageUrl": "https://arweave.net/0DKuwQRiTvFJoj9HK2QltxvTTwZ2nWlJv6vb-5y6ReE",
+      "description": "solilopep",
+      "externalUrl": "https://pepe-by-chrypnotoad.uncut.network/nft/34361067504",
+      "attributes": [
+        {
+          "value": "Pepe by Chrypnotoad",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Epic",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x2b",
+      "name": "Smoking Pepe",
+      "imageUrl": "https://arweave.net/TePfCkrMMQ24z9d35wHVf8jWyw0DFB6WfYdBu7RZLHg",
+      "description": "Jazz club pepe",
+      "externalUrl": "https://pepe-by-chrypnotoad.uncut.network/nft/34361069512",
+      "attributes": [
+        {
+          "value": "Pepe by Chrypnotoad",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x2c",
+      "name": "Blazing Gaze",
+      "imageUrl": "https://arweave.net/nvwDxCLQ2xR29A2gjkXjVyyQw4zfUJP5X4xuSX38d4U",
+      "description": "Pepe the Frog with a Flaming Vision",
+      "externalUrl": "https://pepe-by-chrypnotoad.uncut.network/nft/34361069622",
+      "attributes": [
+        {
+          "value": "Pepe by Chrypnotoad",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x2d",
+      "name": "Sir Pepe the Resilient",
+      "imageUrl": "https://arweave.net/cQayJi345IKU-F9UVYYE1r_nIw5FQZuErYHChiHiqYM",
+      "description": "There once was a valiant knight known as Sir Pepe the Resilient. Cloaked in enchanted azure armor that shimmered with the essence of the sacred pond from which he hailed, Sir Pepe stood as the guardian of the Glistening Waters, a mystical source of life and magic for all the creatures of the land.\n\nLegend has it that Sir Pepe was not always a knight but a humble frog with a heart brimming with courage. One fateful night, under the watchful gaze of the constellation Croak Major, he leapt bravely in front of a wayward spell cast by a wandering sorcerer, aimed at the ancient Lotus Stone. The spell, instead of striking the stone, imbued Pepe with untold power and wisdom, transforming him into the knightly figure known throughout the kingdoms.",
+      "externalUrl": "https://pepe-by-chrypnotoad.uncut.network/nft/34361069745",
+      "attributes": [
+        {
+          "value": "Pepe by Chrypnotoad",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Epic",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x2e",
+      "name": "Smoking Jazz Pepe",
+      "imageUrl": "https://arweave.net/lgX0eexlCfwZm2W9sULXKBcGzis9YRH-0neGLNAy0wc",
+      "description": "Swirls around my green, I take a drag, \n\nCool, I lounge, no need to brag.\n\n Jazz in my ears, rhythm in my toes,\n\n In this club, my chill just flows.\n\n Bass line walks, I follow suit,\n\n Sax plays a tale, my mood's astute.\n\n Smoke and jazz, my perfect blend, \n\nIn this smoky room, I transcend. ",
+      "externalUrl": "https://pepe-by-chrypnotoad.uncut.network/nft/34361070998",
+      "attributes": [
+        {
+          "value": "Pepe by Chrypnotoad",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Epic",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x2f",
+      "name": "For Loyal Homie",
+      "imageUrl": "https://arweave.net/88VQ0gVa03uV-C2ydt8J1NkRuZmvw3LeMN11Q7nyxcU",
+      "description": "What a dinger!\n\n<https://twitter.com/yacineMTB/status/1754581504519237848>",
+      "externalUrl": "https://pepe-by-chrypnotoad.uncut.network/nft/34361071831",
+      "attributes": [
+        {
+          "value": "Pepe by Chrypnotoad",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Epic",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x30",
+      "name": "Aspiring Squire Pepe",
+      "imageUrl": "https://arweave.net/OSV27HX74tWoph1Eu1ijUHhv-7-PipSWjKDJHEjA1Vg",
+      "description": "Who is this little knight to be?\n\n\n---\n\nCollect a [toadallions](https://toadallions.uncut.network/) for the password",
+      "externalUrl": "https://pepe-by-chrypnotoad.uncut.network/nft/34361072691",
+      "attributes": [
+        {
+          "value": "Pepe by Chrypnotoad",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x31",
+      "name": "GM Static Pepe",
+      "imageUrl": "https://arweave.net/MvUYUAlT7s5wRbfMoZNV4O_9U8PTPBw1e05yxKb5zps",
+      "description": "Good morning, do you ever wake upon your pad with a brain full of static? That's me every single morning. After hitting the snooze button for what feels like the hundredth time, I finally roll out of bed. My eyes were barely open, and my mind still lost in a fog of dreams.",
+      "externalUrl": "https://pepe-by-chrypnotoad.uncut.network/nft/34361076895",
+      "attributes": [
+        {
+          "value": "Pepe by Chrypnotoad",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Epic",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x32",
+      "name": "Pepe in a cozy bed, Good Night.",
+      "imageUrl": "https://arweave.net/mI1xaNcdsvoQriR_Od6GUXBDYVyR8sFe459eNO7Ocuk",
+      "description": "In a cozy bed, under the night's embrace, Pepe the frog finds a restful place. Stars twinkle down, a soft lullaby, As he drifts to dreams under the moonlit sky.\n\n\"Good night,\" he whispers to the world so wide, With a pillow soft and his heart open wide. To the land of dreams, he takes his leap, In the quiet hush, Pepe the frog sleeps.\n\nNow let's bring another dreamy scene to life with Pepe the frog!",
+      "externalUrl": "https://pepe-by-chrypnotoad.uncut.network/nft/34361077345",
+      "attributes": [
+        {
+          "value": "Pepe by Chrypnotoad",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x33",
+      "name": "Pepe Cupid 💘",
+      "imageUrl": "https://arweave.net/M4jnrfR0AkiVrVApt6pXClXl_Zs6AQ4DVwgaVgKcPec",
+      "description": "Happy Valentines Day 2024",
+      "externalUrl": "https://pepe-by-chrypnotoad.uncut.network/nft/34361102452",
+      "attributes": [
+        {
+          "value": "Pepe by Chrypnotoad",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Epic",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x34",
+      "name": "Pepe the Enchanter",
+      "imageUrl": "https://arweave.net/nRAJmkSlCjU9dnigSd2jjJOpPh7Obf02Ny9VNxgVQBo",
+      "description": "The very air shimmers with the unspoken musings of this amphibian sage. Is he conjuring secrets held within the swirling smoke, or perchance whispering desires to the celestial tapestry above?",
+      "externalUrl": "https://pepe-by-chrypnotoad.uncut.network/nft/34361115609",
+      "attributes": [
+        {
+          "value": "Pepe by Chrypnotoad",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x35",
+      "name": "Pepe the Mystic",
+      "imageUrl": "https://arweave.net/Bo16jZUI9AeGKFVjQ6jx5uvagGEln835z4aIvJ2S-AM",
+      "description": "A mystic, it meditates beyond worldly scars. \n\nCloaked in patterns, ancient and eternally new.\n\nA mystic, it meditates beyond worldly scars. \n\nCloaked in patterns, ancient and eternally new.",
+      "externalUrl": "https://pepe-by-chrypnotoad.uncut.network/nft/34361115635",
+      "attributes": [
+        {
+          "value": "Pepe by Chrypnotoad",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Epic",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x36",
+      "name": "Pepe the Preistly ",
+      "imageUrl": "https://arweave.net/MLFA9r2AF5LB6ovfljdV4JmUjibE5-TqtLJ7a3vEO8w",
+      "description": "Pepe the Priestly, in solemn sanctity. \n\nCrowned not just in gold but in wisdom's gleam.\n\nEach morning's prayer is his to intone.\n\nIn a realm where dawn's light breaks and shadows flee.",
+      "externalUrl": "https://pepe-by-chrypnotoad.uncut.network/nft/34361115636",
+      "attributes": [
+        {
+          "value": "Pepe by Chrypnotoad",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Epic",
+          "trait_type": "Scarcity"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,364 @@
+{
+  "contractAddress": "0x723d4a46155529dF0385C49B0538A8242fcC2468",
+  "collectionName": "monoliths",
+  "totalNFTs": 17,
+  "nfts": [
+    {
+      "tokenId": "0x00",
+      "name": "The Verdant Passage Monolith",
+      "imageUrl": "https://arweave.net/VOo0sFpJSWDccAvgu6N-DKMKfm-H0tJELmUQU-uS7JQ",
+      "description": "",
+      "externalUrl": "https://monoliths.uncut.network/nft/34360950040",
+      "attributes": [
+        {
+          "value": "monoliths",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Epic",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x01",
+      "name": "Ladder of Shards",
+      "imageUrl": "https://arweave.net/3Qntf-W7SDBER3d7t2jqaOC6kQ2U1T5PHyIsvZfBCB0",
+      "description": "",
+      "externalUrl": "https://monoliths.uncut.network/nft/34360950043",
+      "attributes": [
+        {
+          "value": "monoliths",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x02",
+      "name": "The Silent Sentinels",
+      "imageUrl": "https://arweave.net/PnSLW-l4DMmOe7YWpt3QA_LYL-ss2SDUV_QA_shC3-E",
+      "description": "",
+      "externalUrl": "https://monoliths.uncut.network/nft/34360950046",
+      "attributes": [
+        {
+          "value": "monoliths",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x03",
+      "name": "Moon Splitter",
+      "imageUrl": "https://arweave.net/6ptmLwsRyBdk7NvTX-hF7RLQJ3NFBumj3zY70YiEp3o",
+      "description": "",
+      "externalUrl": "https://monoliths.uncut.network/nft/34360950052",
+      "attributes": [
+        {
+          "value": "monoliths",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Epic",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x04",
+      "name": "The Brothers",
+      "imageUrl": "https://arweave.net/CQjiDiarEV55b1Lc0-iFqQ6aEj2B7fy-8GBUIq3-9LU",
+      "description": "",
+      "externalUrl": "https://monoliths.uncut.network/nft/34360950059",
+      "attributes": [
+        {
+          "value": "monoliths",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x05",
+      "name": "The Warden's Pillar",
+      "imageUrl": "https://arweave.net/d5dGBHK8s0xzkYfOve9bt55xNOyYAaHdOwxokifLqhw",
+      "description": "",
+      "externalUrl": "https://monoliths.uncut.network/nft/34360950064",
+      "attributes": [
+        {
+          "value": "monoliths",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x06",
+      "name": "Obelisk of Infinity",
+      "imageUrl": "https://arweave.net/Wz2pELQo8vY0_mKZgrfl79aEyOhiNcOWVUdK5z7gu9c",
+      "description": "",
+      "externalUrl": "https://monoliths.uncut.network/nft/34360950070",
+      "attributes": [
+        {
+          "value": "monoliths",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Epic",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x07",
+      "name": "Azure Sentinel",
+      "imageUrl": "https://arweave.net/gsE2wqYObbP13Y0CAgLPqB_BczjUBIKeZvIqUMX5C1Q",
+      "description": "",
+      "externalUrl": "https://monoliths.uncut.network/nft/34360950074",
+      "attributes": [
+        {
+          "value": "monoliths",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Epic",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x08",
+      "name": "Astral Corridor",
+      "imageUrl": "https://arweave.net/D6xfeQ7eSy8nXRO3Cbd1KgwFQGsFHtdEuroJAA7AWNA",
+      "description": "",
+      "externalUrl": "https://monoliths.uncut.network/nft/34360950077",
+      "attributes": [
+        {
+          "value": "monoliths",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Epic",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x09",
+      "name": "The Breathing Monolith",
+      "imageUrl": "https://arweave.net/_d7twag2dab_9xLwCzBkIlqfs5F1_WQgWIAsgjBui3g",
+      "description": "",
+      "externalUrl": "https://monoliths.uncut.network/nft/34360950371",
+      "attributes": [
+        {
+          "value": "monoliths",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0a",
+      "name": "Monoliths of the Chasm",
+      "imageUrl": "https://arweave.net/oMihKdjxX-bGvoy7OeNYkdfdtWUH-a4PZ3SNEPN6A6E",
+      "description": "",
+      "externalUrl": "https://monoliths.uncut.network/nft/34360950079",
+      "attributes": [
+        {
+          "value": "monoliths",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Epic",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0b",
+      "name": "Aether's Anchor",
+      "imageUrl": "https://arweave.net/0tjcC0ONT5K0vrRd8id_z-hP9XaDcTE10m34infV5-c",
+      "description": "",
+      "externalUrl": "https://monoliths.uncut.network/nft/34360951493",
+      "attributes": [
+        {
+          "value": "monoliths",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Epic",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0c",
+      "name": "The Glass Lattice",
+      "imageUrl": "https://arweave.net/lXLDZEo9ThRdQPCR4jvy7M5Loyvv7zRaf9bR62CGxSI",
+      "description": "",
+      "externalUrl": "https://monoliths.uncut.network/nft/34360951494",
+      "attributes": [
+        {
+          "value": "monoliths",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Epic",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0d",
+      "name": "Beacon of the Firmament",
+      "imageUrl": "https://arweave.net/h6T3ZYmP6nrws-QPtq7F2noiqgxGPYKimnTkTYmg2UE",
+      "description": "",
+      "externalUrl": "https://monoliths.uncut.network/nft/34360951495",
+      "attributes": [
+        {
+          "value": "monoliths",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Epic",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0e",
+      "name": "The Sentinels' Gaze",
+      "imageUrl": "https://arweave.net/t3sxKNm-SUEEyNIXM48KQqW2iAqixuSnohZvb8pzqXU",
+      "description": "",
+      "externalUrl": "https://monoliths.uncut.network/nft/34360958283",
+      "attributes": [
+        {
+          "value": "monoliths",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0f",
+      "name": "The Hidden Opal",
+      "imageUrl": "https://arweave.net/3xGL85LzlIYNefJmxEBNDayl6BKo2HR_nLHOOl3daKY",
+      "description": "",
+      "externalUrl": "https://monoliths.uncut.network/nft/34360958285",
+      "attributes": [
+        {
+          "trait_type": "Collection",
+          "value": "monoliths"
+        },
+        {
+          "trait_type": "Creator",
+          "value": "chrypnotoad"
+        },
+        {
+          "trait_type": "Scarcity",
+          "value": "Rare"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x10",
+      "name": "Diamond's Descent",
+      "imageUrl": "https://arweave.net/CWT_8yk3SzydzUvCDPsH03nY84zog5u8_wnahvIBYzk",
+      "description": "",
+      "externalUrl": "https://monoliths.uncut.network/nft/34360958282",
+      "attributes": [
+        {
+          "value": "monoliths",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    }
+  ]
+}

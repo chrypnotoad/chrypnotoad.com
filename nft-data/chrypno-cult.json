@@ -1,0 +1,406 @@
+{
+  "contractAddress": "0x7c624296329472BCC1acA4358C7B1c455D651C49",
+  "collectionName": "Chrypno Cult",
+  "totalNFTs": 20,
+  "nfts": [
+    {
+      "tokenId": "0x00",
+      "name": "Whispers of the Old Gods",
+      "imageUrl": "https://arweave.net/eMxEo37kYUIDO567wtlH-0z188iy1AFSzM5MN7mmVU4",
+      "description": "",
+      "externalUrl": "https://chrypno-cult.uncut.network/nft/34360950516",
+      "attributes": [
+        {
+          "value": "Chrypno Cult",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x01",
+      "name": "The Conclave's Sigil",
+      "imageUrl": "https://arweave.net/nwF33HVS_gpj-uRb2or31gBzghl3wJINotG3HBgK_Rk",
+      "description": "",
+      "externalUrl": "https://chrypno-cult.uncut.network/nft/34360950517",
+      "attributes": [
+        {
+          "value": "Chrypno Cult",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x03",
+      "name": "The Covenant of Shadows",
+      "imageUrl": "https://arweave.net/x3V2B5vTiZSLQts9OlDbFVs8CexpKwmGPI9d5-xd7lQ",
+      "description": "",
+      "externalUrl": "https://chrypno-cult.uncut.network/nft/34360950519",
+      "attributes": [
+        {
+          "value": "Chrypno Cult",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x04",
+      "name": "The Ascension of the Veiled Prophet",
+      "imageUrl": "https://arweave.net/RwvlZ81qVAvrdSTmrtwp0OsE7OLJbG-QCggwSfE-OIU",
+      "description": "",
+      "externalUrl": "https://chrypno-cult.uncut.network/nft/34360950521",
+      "attributes": [
+        {
+          "value": "Chrypno Cult",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x05",
+      "name": "The Procession of the Crimson Vigil",
+      "imageUrl": "https://arweave.net/hG1jOchK96E6FCMhRnaixVZEcBJ673WJXoifUD9eA5k",
+      "description": "",
+      "externalUrl": "https://chrypno-cult.uncut.network/nft/34360950522",
+      "attributes": [
+        {
+          "value": "Chrypno Cult",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x06",
+      "name": "The Chorus of the Hollowed",
+      "imageUrl": "https://arweave.net/i7i_MwSg0687IUGleIG1fH09EpnycMyoaZq5q96sgXE",
+      "description": "",
+      "externalUrl": "https://chrypno-cult.uncut.network/nft/34360950523",
+      "attributes": [
+        {
+          "value": "Chrypno Cult",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x07",
+      "name": "The Reckoning of the Hierophant",
+      "imageUrl": "https://arweave.net/b-lhASAsx802s5pGyzjD4CYhUU4VxxWPcPJASNXHsZg",
+      "description": "",
+      "externalUrl": "https://chrypno-cult.uncut.network/nft/34360950524",
+      "attributes": [
+        {
+          "value": "Chrypno Cult",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x08",
+      "name": "The Oracle of the Unfathomable Depths",
+      "imageUrl": "https://arweave.net/Xd-IVOxW7SFIPUxz6Np_nS4reKzro9KF2meZMy9m9zw",
+      "description": "",
+      "externalUrl": "https://chrypno-cult.uncut.network/nft/34360951085",
+      "attributes": [
+        {
+          "value": "Chrypno Cult",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x09",
+      "name": "Visions in the Mist",
+      "imageUrl": "https://arweave.net/3ZKrhTz3Gt3w8dGOlgTyewkb5lUuowl4ZLQ22TeFdgU",
+      "description": "",
+      "externalUrl": "https://chrypno-cult.uncut.network/nft/34360951099",
+      "attributes": [
+        {
+          "value": "Chrypno Cult",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0a",
+      "name": "The First Vision: Eclipse of the Fourteenth",
+      "imageUrl": "https://arweave.net/xFygogZwrPY1iSP9nDgjUcgoh7q30o_ZHbz0yFGGDyA",
+      "description": "",
+      "externalUrl": "https://chrypno-cult.uncut.network/nft/34360951463",
+      "attributes": [
+        {
+          "value": "Chrypno Cult",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Epic",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0b",
+      "name": "Vision of the Eclipsing Court of the Void",
+      "imageUrl": "https://arweave.net/ROfCSGwFeEIVJRZxvplK9Lca4HOIxHHsUzEbq-XDV58",
+      "description": "",
+      "externalUrl": "https://chrypno-cult.uncut.network/nft/34360952535",
+      "attributes": [
+        {
+          "value": "Chrypno Cult",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0c",
+      "name": "Vision of the Rise of the Horned Monarch",
+      "imageUrl": "https://arweave.net/CcfgB0ziyhdtyFt81sxDWJdpEDOeJZyjOqPvQpWxw0g",
+      "description": "",
+      "externalUrl": "https://chrypno-cult.uncut.network/nft/34360952542",
+      "attributes": [
+        {
+          "value": "Chrypno Cult",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0d",
+      "name": "Vision of the Radiant Maw of the Lost Vale",
+      "imageUrl": "https://arweave.net/05Z6m8u4S3nG4JP_KT9PjP7d-CkB4yG7bHYXR-Iu2nI",
+      "description": "",
+      "externalUrl": "https://chrypno-cult.uncut.network/nft/34360952549",
+      "attributes": [
+        {
+          "value": "Chrypno Cult",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0e",
+      "name": "Vision of the Chorus of Stoneborne Secrets",
+      "imageUrl": "https://arweave.net/bt1CVf1a5_NGyBfohiVuisqpiMEd1sdOlsoje0VFCsc",
+      "description": "",
+      "externalUrl": "https://chrypno-cult.uncut.network/nft/34360952543",
+      "attributes": [
+        {
+          "value": "Chrypno Cult",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0f",
+      "name": "Vision of the Reckoning of the Obsidian Seraphs",
+      "imageUrl": "https://arweave.net/R2w-GIbi7ZiE8WYYVdaq6FueHCySDxBCoiyCnWaI2p8",
+      "description": "",
+      "externalUrl": "https://chrypno-cult.uncut.network/nft/34360952548",
+      "attributes": [
+        {
+          "value": "Chrypno Cult",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x10",
+      "name": "Vision of the Dirge of the Eldritch Foresters",
+      "imageUrl": "https://arweave.net/vFLZWFlGydGHIwOwsq6ek4-BZMyNH40esQJYoVJ5nBM",
+      "description": "",
+      "externalUrl": "https://chrypno-cult.uncut.network/nft/34360952550",
+      "attributes": [
+        {
+          "value": "Chrypno Cult",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x11",
+      "name": "The Looming Veil of Ahl-Zuur",
+      "imageUrl": "https://ipfs.io/ipfs/QmP8NvtxrDWtUvxeodCULb75vWqBsDqs86gQ451tdPH6Gk",
+      "description": "In the deepest cradle of the cosmos, where the echoes of creation still hum through the neon chasms, lies the sanctum of Ahl-Zuur. This realm, known as the Looming Veil, is a place where reality bends into the whispers of oblivion and light fractures at the will of darkness.\n\nThe meeting with Ahl-Zuur is a pilgrimage few dare to undertake, a journey paved with the unraveling threads of sanity. As the penitent seeker, cloaked in the remnants of forgotten prophecies, reaches the heart of this sanctum, the air thickens with ancient power. The ground beneath his feet—a stark grid of glowing runes—pulses with a life of its own, a guide and also a ward against the uninitiated.\n\nAhl-Zuur reveals itself not as a being of flesh, but as an immense, amorphous silhouette, entwined with tendrils that grasp at the slipping edges of reality. Its core pulses with a radiant, almost blinding orb, mimicking a sun ensnared by night itself. This celestial eye casts an eternal gaze upon its domain, witnessing the unfolding of aeons.\n\nThe air vibrates with a low, resonating voice, a sound felt rather than heard. It speaks in riddles and truths intertwined, offering knowledge that is as much a burden as it is a gift. To stand before Ahl-Zuur is to confront the shadowed paths of one's own soul, reflected in the undulating darkness of the god.\n\nThis is the crucible of spirits, where seekers come to be unmade and remade, their essence rewritten in the ink of stars and shadows. The meeting with Ahl-Zuur changes all, for to see the truth woven by the Shadowed Whisper is to see the fabric of reality laid bare, vulnerable and vast.",
+      "externalUrl": "https://chrypno-cult.uncut.network/nft/34361327097",
+      "attributes": [
+        {
+          "value": "Chrypno Cult",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Epic",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x12",
+      "name": "Vision of the Island",
+      "imageUrl": "https://ipfs.io/ipfs/QmfWfb5J2UsLaDQgPuu3zxyqhSDCvkeaxssqxH4g8xRd2L",
+      "description": "I heard a croak. It started quietly. Then in an instant I sensed nothing but the ringing in my head from that croak. It sounded like some strange toad. Then I say it. The island. The blood on the altar. The skull. I can still feel it sometimes. That croak… it is still in my bones. I dread I will wake up on those shores.",
+      "externalUrl": "https://chrypno-cult.uncut.network/nft/34361335475",
+      "attributes": [
+        {
+          "value": "Chrypno Cult",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Epic",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x13",
+      "name": "Castle in the Break",
+      "imageUrl": "https://ipfs.io/ipfs/QmXSVFAoCWtABx3eMGHrdssmdpdF5Bv5a4zgPZoKjoqWs5",
+      "description": "The tempest howled, the sea a seething cauldron of chaos. And there, amidst the tumult, it rose - a fortress of madness, its square towers stark and bold against the roiling sky. Like a wall of dread, it stood, its turrets thrusting upward in defiance of all that is natural and sane. For a heartbeat, it dominated my vision, a monument to the unnameable horrors that lurk beneath the waves. Then, in an instant, it was gone, dragged back into the depths by the uncaring sea. But the image is seared into my mind, a testament to the terrible truths that mankind was never meant to know. The square towers, the unyielding wall... they haunt me, and I know that I shall never be free of their shadow.",
+      "externalUrl": "https://chrypno-cult.uncut.network/nft/34361335476",
+      "attributes": [
+        {
+          "value": "Chrypno Cult",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Epic",
+          "trait_type": "Scarcity"
+        }
+      ]
+    }
+  ]
+}

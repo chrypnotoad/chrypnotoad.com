@@ -1,0 +1,637 @@
+{
+  "contractAddress": "0x2Ae60987992D47A3c21e9e004f0e05037a254212",
+  "collectionName": "Deep Shadow Portraits",
+  "totalNFTs": 30,
+  "nfts": [
+    {
+      "tokenId": "0x00",
+      "name": "Sundown",
+      "imageUrl": "https://arweave.net/1YGMx8LFcZkbJN7dvSkMkRO47ZDBq_MRqVdO_53hJsQ",
+      "description": "",
+      "externalUrl": "https://deep-shadow-portraits.uncut.network/nft/34360951359",
+      "attributes": [
+        {
+          "value": "Deep Shadow Portraits",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x01",
+      "name": "Glyph",
+      "imageUrl": "https://arweave.net/b05wtt8l7Ey7kjKvVwwKNmJILuDaRHavIv2oV0mV9RA",
+      "description": "",
+      "externalUrl": "https://deep-shadow-portraits.uncut.network/nft/34360951360",
+      "attributes": [
+        {
+          "value": "Deep Shadow Portraits",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x02",
+      "name": "Azure",
+      "imageUrl": "https://arweave.net/L4JvRgSVnNQfhN6v36_tkWuz783uM7qA0Li3ADTAMkQ",
+      "description": "",
+      "externalUrl": "https://deep-shadow-portraits.uncut.network/nft/34360951361",
+      "attributes": [
+        {
+          "value": "Deep Shadow Portraits",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x03",
+      "name": "Inferno",
+      "imageUrl": "https://arweave.net/F2mscHdNRbvW9nPR0426FX8tzy7cdjpp5ZdYrxj1Jm8",
+      "description": "",
+      "externalUrl": "https://deep-shadow-portraits.uncut.network/nft/34360951362",
+      "attributes": [
+        {
+          "value": "Deep Shadow Portraits",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x04",
+      "name": "Stardust",
+      "imageUrl": "https://arweave.net/PRn1aChDRMPBYLMFLUm2TpXE2v2HTK1R6w4EVMOV1Ag",
+      "description": "",
+      "externalUrl": "https://deep-shadow-portraits.uncut.network/nft/34360951363",
+      "attributes": [
+        {
+          "value": "Deep Shadow Portraits",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x05",
+      "name": "Resonance",
+      "imageUrl": "https://arweave.net/WNCOH3cqOd7MnjGv4izmExultUrF8IAtqI1JjA_FPmo",
+      "description": "",
+      "externalUrl": "https://deep-shadow-portraits.uncut.network/nft/34360951364",
+      "attributes": [
+        {
+          "value": "Deep Shadow Portraits",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x06",
+      "name": "Fierce",
+      "imageUrl": "https://arweave.net/_xcY2pqqWhooIMbDoUz9sR6BaofSbwAv0rAkENzvrVQ",
+      "description": "",
+      "externalUrl": "https://deep-shadow-portraits.uncut.network/nft/34360951365",
+      "attributes": [
+        {
+          "value": "Deep Shadow Portraits",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x07",
+      "name": "Slats",
+      "imageUrl": "https://arweave.net/KCA66q1s-5itCx7C0ezhuaC0HgkKyaaHZYYQERSAnpA",
+      "description": "",
+      "externalUrl": "https://deep-shadow-portraits.uncut.network/nft/34360951366",
+      "attributes": [
+        {
+          "value": "Deep Shadow Portraits",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x08",
+      "name": "Spectra",
+      "imageUrl": "https://arweave.net/bOT_OREwL1RqjL3hgX2T2WEMhjsvZU7vRRBFrx88rH8",
+      "description": "",
+      "externalUrl": "https://deep-shadow-portraits.uncut.network/nft/34360951367",
+      "attributes": [
+        {
+          "value": "Deep Shadow Portraits",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x09",
+      "name": "Majesty",
+      "imageUrl": "https://arweave.net/b7sEW-uqIodXrCJxtJoAXWbJ7jk8DuCZmHCi-dF7XxA",
+      "description": "",
+      "externalUrl": "https://deep-shadow-portraits.uncut.network/nft/34360951368",
+      "attributes": [
+        {
+          "value": "Deep Shadow Portraits",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0a",
+      "name": "Viper",
+      "imageUrl": "https://arweave.net/ZgPjyFLhVP_o6ekg0bbkZ4yTC3C6J-D_r7nnOBrBy0c",
+      "description": "",
+      "externalUrl": "https://deep-shadow-portraits.uncut.network/nft/34360951369",
+      "attributes": [
+        {
+          "value": "Deep Shadow Portraits",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0b",
+      "name": "Cosmos",
+      "imageUrl": "https://arweave.net/deoTmdiKkbKoueMKjUtYMV4DJ5vKKyE6azcRi5pW2iI",
+      "description": "",
+      "externalUrl": "https://deep-shadow-portraits.uncut.network/nft/34360951370",
+      "attributes": [
+        {
+          "value": "Deep Shadow Portraits",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0c",
+      "name": "Verdure",
+      "imageUrl": "https://arweave.net/jcpK3Tp6yzByl6bln-bpQfAmHelCMjtAL3AI0J65xzA",
+      "description": "",
+      "externalUrl": "https://deep-shadow-portraits.uncut.network/nft/34360951372",
+      "attributes": [
+        {
+          "value": "Deep Shadow Portraits",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0d",
+      "name": "Eclipse",
+      "imageUrl": "https://arweave.net/UIRg4vjuEMUSF640ECVbeU3n-C54vf4wSyxHvJsKrfw",
+      "description": "",
+      "externalUrl": "https://deep-shadow-portraits.uncut.network/nft/34360951373",
+      "attributes": [
+        {
+          "value": "Deep Shadow Portraits",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0e",
+      "name": "Singularity",
+      "imageUrl": "https://arweave.net/k_43WzOnT1iSUGEKv_lXy-_OupUxELWdEP1RbQqZ4lA",
+      "description": "",
+      "externalUrl": "https://deep-shadow-portraits.uncut.network/nft/34360951374",
+      "attributes": [
+        {
+          "value": "Deep Shadow Portraits",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0f",
+      "name": "Crescent",
+      "imageUrl": "https://arweave.net/lxcFyj8snjIvbMtzPUyBCyyuFz1rRH3bWFd8RxwAESA",
+      "description": "",
+      "externalUrl": "https://deep-shadow-portraits.uncut.network/nft/34360951375",
+      "attributes": [
+        {
+          "value": "Deep Shadow Portraits",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x10",
+      "name": "Dawn",
+      "imageUrl": "https://arweave.net/S-MvoWec8qzMOjBsWTSvVbPBlOYHTd3-Xh9z0lnr6U8",
+      "description": "",
+      "externalUrl": "https://deep-shadow-portraits.uncut.network/nft/34360951376",
+      "attributes": [
+        {
+          "value": "Deep Shadow Portraits",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x11",
+      "name": "Reveal",
+      "imageUrl": "https://arweave.net/V4EdiVyaV_yGAETrRWK5pUpD60_rV7KGFaEBq5dB-Oo",
+      "description": "",
+      "externalUrl": "https://deep-shadow-portraits.uncut.network/nft/34360951377",
+      "attributes": [
+        {
+          "value": "Deep Shadow Portraits",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x12",
+      "name": "Silhouette",
+      "imageUrl": "https://arweave.net/SO1LjytiSWZ0Oa5YdSs2SlXwwuLUiMDv10V_weHrEQE",
+      "description": "",
+      "externalUrl": "https://deep-shadow-portraits.uncut.network/nft/34360951378",
+      "attributes": [
+        {
+          "value": "Deep Shadow Portraits",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x13",
+      "name": "Contour",
+      "imageUrl": "https://arweave.net/vuMVZSO-S5TJLuSoQm8VCcL3MTmwQwdk8Yqxml75Das",
+      "description": "",
+      "externalUrl": "https://deep-shadow-portraits.uncut.network/nft/34360951379",
+      "attributes": [
+        {
+          "value": "Deep Shadow Portraits",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x14",
+      "name": "Fragment",
+      "imageUrl": "https://arweave.net/8WMrBIeZpxeqOheFMDI690xsmPw2o-FdQRh3tohmMlw",
+      "description": "",
+      "externalUrl": "https://deep-shadow-portraits.uncut.network/nft/34360951380",
+      "attributes": [
+        {
+          "value": "Deep Shadow Portraits",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x15",
+      "name": "Ember",
+      "imageUrl": "https://arweave.net/mPRrGVVkwBJa1ERhMSQDdeb16-1rHJZaGJ9vm7vEtec",
+      "description": "",
+      "externalUrl": "https://deep-shadow-portraits.uncut.network/nft/34360951381",
+      "attributes": [
+        {
+          "value": "Deep Shadow Portraits",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x16",
+      "name": "Metropolis",
+      "imageUrl": "https://arweave.net/B5m4KqDe9_r6EiPu8Zwm01TOz8ALsmnlfh4Oc5vlwtI",
+      "description": "",
+      "externalUrl": "https://deep-shadow-portraits.uncut.network/nft/34360951922",
+      "attributes": [
+        {
+          "value": "Deep Shadow Portraits",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x17",
+      "name": "Vigilant",
+      "imageUrl": "https://arweave.net/SWuZ1ILjCAyAJVniO83fryd5pNrzb311A2WLNFOLd8Q",
+      "description": "",
+      "externalUrl": "https://deep-shadow-portraits.uncut.network/nft/34360951923",
+      "attributes": [
+        {
+          "value": "Deep Shadow Portraits",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x18",
+      "name": "Pulse",
+      "imageUrl": "https://arweave.net/8o5E_JMopeBS-k0bnEBFdIu21PgriFR-1ttSKW2jxgM",
+      "description": "",
+      "externalUrl": "https://deep-shadow-portraits.uncut.network/nft/34360951924",
+      "attributes": [
+        {
+          "value": "Deep Shadow Portraits",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x19",
+      "name": "Zebrine",
+      "imageUrl": "https://arweave.net/2B1kGbwCRUffRZxq5pXe6fREzA31mIa2RV4hSp3nklE",
+      "description": "",
+      "externalUrl": "https://deep-shadow-portraits.uncut.network/nft/34360951925",
+      "attributes": [
+        {
+          "value": "Deep Shadow Portraits",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x1a",
+      "name": "Checkmate",
+      "imageUrl": "https://arweave.net/ULd1pAt-PbwwZnjoI1QPJrh_Nyw66nQt6UG_voiXHUQ",
+      "description": "",
+      "externalUrl": "https://deep-shadow-portraits.uncut.network/nft/34360951926",
+      "attributes": [
+        {
+          "value": "Deep Shadow Portraits",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x1b",
+      "name": "Sundara",
+      "imageUrl": "https://arweave.net/mozlmy0_IkS5psOYNA740HCyd8aeZFUrIEdO1-Nl1XI",
+      "description": "",
+      "externalUrl": "https://deep-shadow-portraits.uncut.network/nft/34360951927",
+      "attributes": [
+        {
+          "value": "Deep Shadow Portraits",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x1c",
+      "name": "Flare",
+      "imageUrl": "https://arweave.net/JhWNI3yPyQyvgBroOcCgi3lsU7dWcmnR3MUElhpmuSc",
+      "description": "",
+      "externalUrl": "https://deep-shadow-portraits.uncut.network/nft/34360951928",
+      "attributes": [
+        {
+          "value": "Deep Shadow Portraits",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x1d",
+      "name": "Interlude",
+      "imageUrl": "https://arweave.net/CZUe0gvFf71O9pJQW499r8D5U_JYB9ccDRE2CSB2l4M",
+      "description": "",
+      "externalUrl": "https://deep-shadow-portraits.uncut.network/nft/34360951937",
+      "attributes": [
+        {
+          "value": "Deep Shadow Portraits",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    }
+  ]
+}

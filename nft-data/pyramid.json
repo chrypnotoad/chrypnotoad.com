@@ -1,0 +1,259 @@
+{
+  "contractAddress": "0x585A9a95F2844fE0075cf853CeFB2B5fF5650a7E",
+  "collectionName": "pyramid",
+  "totalNFTs": 13,
+  "nfts": [
+    {
+      "tokenId": "0x00",
+      "name": "Food Pyramid",
+      "imageUrl": "https://arweave.net/I0Ti_02P-u6kGX6PqWTH-_tQ1vcVLuRZ-wNY95Hxbis",
+      "description": "",
+      "externalUrl": "https://pyramid.uncut.network/nft/34360948941",
+      "attributes": [
+        {
+          "value": "pyramid",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x01",
+      "name": "Real Time Pyramid",
+      "imageUrl": "https://arweave.net/aLG0jMp5RPaKrB7dfDNXdD9z_GsBYqg1XlujaykkdOI",
+      "description": "",
+      "externalUrl": "https://pyramid.uncut.network/nft/34360948942",
+      "attributes": [
+        {
+          "value": "pyramid",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x02",
+      "name": "Pyramid of Dawn",
+      "imageUrl": "https://arweave.net/t0O4cbA1Y6-9IH5zObPc-LBV-q5Pb1pEcL1AYZTh5fs",
+      "description": "",
+      "externalUrl": "https://pyramid.uncut.network/nft/34360948947",
+      "attributes": [
+        {
+          "value": "pyramid",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x03",
+      "name": "Harmonic Pyramid",
+      "imageUrl": "https://arweave.net/rYTvhIVXCf06nsuOWJN2DQ8E5wI_DzOuWW5LR2Rri64",
+      "description": "",
+      "externalUrl": "https://pyramid.uncut.network/nft/34360948957",
+      "attributes": [
+        {
+          "value": "pyramid",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x04",
+      "name": "Pyramid's Radiant Ascent",
+      "imageUrl": "https://arweave.net/RjfciI8Rd5VOOcCFNwB-WxjToHvSpKXbsG9wzU2GZvc",
+      "description": "",
+      "externalUrl": "https://pyramid.uncut.network/nft/34360948963",
+      "attributes": [
+        {
+          "value": "pyramid",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x05",
+      "name": "Attack on Pyramid",
+      "imageUrl": "https://arweave.net/wnBq4CVlpYj53GPH6EXN6BNN6nR7HieVodXowaMliIU",
+      "description": "",
+      "externalUrl": "https://pyramid.uncut.network/nft/34360948988",
+      "attributes": [
+        {
+          "value": "pyramid",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x06",
+      "name": "👁👄👁",
+      "imageUrl": "https://arweave.net/GqtNgiNCluDdQNg4ukpTUWLA1b95rpqRSdmfbY4cMu4",
+      "description": "",
+      "externalUrl": "https://pyramid.uncut.network/nft/34360948990",
+      "attributes": [
+        {
+          "value": "pyramid",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x07",
+      "name": "Starry Pyramid",
+      "imageUrl": "https://arweave.net/HakfZoeB9ufNHUejfDMKUBWV6Fwa0rkrGF-jyzRKekc",
+      "description": "",
+      "externalUrl": "https://pyramid.uncut.network/nft/34360948993",
+      "attributes": [
+        {
+          "value": "pyramid",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x08",
+      "name": "Pyramid of Babel",
+      "imageUrl": "https://arweave.net/Tpmayd4kI04Mca2Htm4T5J54FGjViYDtFFlqwEogIlY",
+      "description": "",
+      "externalUrl": "https://pyramid.uncut.network/nft/34360950222",
+      "attributes": [
+        {
+          "value": "pyramid",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x09",
+      "name": "Echoes of Eden",
+      "imageUrl": "https://arweave.net/ToNC0Ky8HbzpGvNRJBhisEkqWlRp5JSdRVzT_yxn36Q",
+      "description": "",
+      "externalUrl": "https://pyramid.uncut.network/nft/34360950224",
+      "attributes": [
+        {
+          "value": "pyramid",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0a",
+      "name": "Pyramid Framed",
+      "imageUrl": "https://arweave.net/jAtZ8yLgQgvGK6Kr_taD9dCAB451e2f5O18PZ91dtsg",
+      "description": "",
+      "externalUrl": "https://pyramid.uncut.network/nft/34360950225",
+      "attributes": [
+        {
+          "value": "pyramid",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0c",
+      "name": "Ascend and Meditate",
+      "imageUrl": "https://arweave.net/2Robi-6zgeR8CDFEdGqWkwKIe6Qogr9Myu4A2xfSYHc",
+      "description": "\"Ascend and Meditate\" beckons you to embark on a transformative quest towards enlightenment and inner calm. The centerpiece of this journey is the radiant pyramid, a symbol of your path to higher awareness. With every step you take upon the glowing ascent, your soul vibrates with an ancient desire for wisdom and peace. As you climb, the visual narrative unfolds through an animation that grows increasingly luminous, reflecting the enlightenment that you are moving towards. This is not merely a visual feat; it is an interactive pilgrimage accompanied by a 20-minute meditation audio track that guides you into deep introspection. The track acts as a compass to your inner landscape, steering you through the terrains of your mind and spirit until you arrive at a sanctuary of profound stillness. \"Ascend and Meditate\" is more than art—it is an invitation to engage, to rise, to connect with the cosmos cradled within you.",
+      "externalUrl": "https://pyramid.uncut.network/nft/34361059718",
+      "attributes": [
+        {
+          "value": "pyramid",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Rare",
+          "trait_type": "Scarcity"
+        }
+      ]
+    }
+  ]
+}

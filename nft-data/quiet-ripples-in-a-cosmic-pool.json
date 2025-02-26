@@ -1,0 +1,301 @@
+{
+  "contractAddress": "0x37AC351BA495f5423661Baf3D86314EAdaAB0a1E",
+  "collectionName": "Quiet Ripples in a Cosmic Pool",
+  "totalNFTs": 15,
+  "nfts": [
+    {
+      "tokenId": "0x00",
+      "name": "Silent Arrival",
+      "imageUrl": "https://ipfs.io/ipfs/QmQzXwZxidCk5Xns8Jx9s1Zb5dg6czc417xDb57XGeQ9MH",
+      "description": "The first whispers came beneath a dying sun. A lone figure stood in the shadow of ancient spires, watching the sky shift. It knew the change was near—felt it in the silence, in the quiet pulse of the cosmos.",
+      "externalUrl": "https://quiet-ripples-in-a-cosmic-pool.uncut.network/nft/34361577896",
+      "attributes": [
+        {
+          "value": "Quiet Ripples in a Cosmic Pool",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x01",
+      "name": "The Crownless",
+      "imageUrl": "https://ipfs.io/ipfs/QmWrcc6hZNWtv1uq9cHxCsnYgWde5ufzR5oUUA68CY8FPn",
+      "description": "Time slowed as the veiled beings stirred, half-forgotten memories of their rule rippling through the stars. The air hummed with the weight of their presence - echoes of kings and queens without crowns, their faces unreadable, their gaze eternal.",
+      "externalUrl": "https://quiet-ripples-in-a-cosmic-pool.uncut.network/nft/34361577899",
+      "attributes": [
+        {
+          "value": "Quiet Ripples in a Cosmic Pool",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x02",
+      "name": "Pilgrim's Gaze",
+      "imageUrl": "https://ipfs.io/ipfs/QmRe8fWfat66A5BUoANgMqU8xjfwHMYJZPFsA9A85vfBcV",
+      "description": "In the farthest reaches, beneath the shadow of a forgotten moon, a wanderer beheld the unknown. An eye gazed down upon them from the heavens, heavy with ancient knowledge, but unmoving. It was an invitation, or perhaps a warning.",
+      "externalUrl": "https://quiet-ripples-in-a-cosmic-pool.uncut.network/nft/34361577901",
+      "attributes": [
+        {
+          "value": "Quiet Ripples in a Cosmic Pool",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x03",
+      "name": "At the End of an Age",
+      "imageUrl": "https://ipfs.io/ipfs/QmVV28ej1DosrhfvQVmGsLKRgZoDwqY2mv1ynuNXLVmJUb",
+      "description": "The spires of an ancient world stood untouched by time, the last monuments to an empire long erased. Beneath the pale light of distant stars, the landscape held its breath, as though waiting for something to awaken, something that had slept for millennia.",
+      "externalUrl": "https://quiet-ripples-in-a-cosmic-pool.uncut.network/nft/34361577903",
+      "attributes": [
+        {
+          "value": "Quiet Ripples in a Cosmic Pool",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x04",
+      "name": "The Watcher's Mark",
+      "imageUrl": "https://ipfs.io/ipfs/QmP9RQHjUtaUcaDYyJN3Xsxu62wbG69ZY1mYafDwtxuWaP",
+      "description": "In shadow and light, the figure observed from beyond the veil. Its form blended into the celestial tapestry, yet it saw all - each star a pulse of knowledge, every shadow a path to be traversed. The mark it bore was older than the stars themselves.",
+      "externalUrl": "https://quiet-ripples-in-a-cosmic-pool.uncut.network/nft/34361577904",
+      "attributes": [
+        {
+          "value": "Quiet Ripples in a Cosmic Pool",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x06",
+      "name": "Beneath the Eye",
+      "imageUrl": "https://ipfs.io/ipfs/QmRtkcphkp2k3bZd2bESzBeMc8P37EsbjqKGLYVPQYto7C",
+      "description": "Beneath the all-seeing eye, even the most ancient of things crumbled to dust. It was not death, but a cycle, the figure standing at the intersection of life and the infinite void. Its light was both creation and decay.",
+      "externalUrl": "https://quiet-ripples-in-a-cosmic-pool.uncut.network/nft/34361577907",
+      "attributes": [
+        {
+          "value": "Quiet Ripples in a Cosmic Pool",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x07",
+      "name": "Stellar Guardian",
+      "imageUrl": "https://ipfs.io/ipfs/QmUZFfh1EhrqQsFYFof5Nuqe4Pe7DTsnFUr8eC17fELciy",
+      "description": "In the expanse, the guardian watched - an unspoken protector between the stars. The ships passed, fleeting, unaware of the eyes that tracked them from a distance. Time was nothing to the guardian. It had watched before and would watch long after they were gone.",
+      "externalUrl": "https://quiet-ripples-in-a-cosmic-pool.uncut.network/nft/34361577908",
+      "attributes": [
+        {
+          "value": "Quiet Ripples in a Cosmic Pool",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x08",
+      "name": "Echoes in the Void",
+      "imageUrl": "https://ipfs.io/ipfs/QmVEZednkaqPiEo1xNFgD6EvxWYJUbLnUytvdM5VdqiR6n",
+      "description": "The Seer drifted between the stars, its presence marked by a stillness, an awareness that transcended time. It carried the weight of distant echoes - worlds forgotten, dreams untethered. Each movement, though slow, shifted the threads of the cosmos.",
+      "externalUrl": "https://quiet-ripples-in-a-cosmic-pool.uncut.network/nft/34361577909",
+      "attributes": [
+        {
+          "value": "Quiet Ripples in a Cosmic Pool",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x09",
+      "name": "Quiet Herald",
+      "imageUrl": "https://ipfs.io/ipfs/QmXhuKMuUgUcQTRS6FNMnmZMMavvGh71jhPQmqK93iYB8o",
+      "description": "In the distance, a herald stood, wings folded, sword in hand. It spoke no words, for none were needed. Its very existence was a reminder - a quiet presence that guarded the boundaries between what was known and the unknowable.",
+      "externalUrl": "https://quiet-ripples-in-a-cosmic-pool.uncut.network/nft/34361577910",
+      "attributes": [
+        {
+          "value": "Quiet Ripples in a Cosmic Pool",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0a",
+      "name": "The Unblinking Sun",
+      "imageUrl": "https://ipfs.io/ipfs/QmaKn5VfvtTv6pTQwyEmDyzgTX1CWL654xfxqF2DqB7LV3",
+      "description": "Eyes closed but vision unclouded, it gazed without sight. Light bent around the figure, as though the universe itself shifted to accommodate its presence. The sun behind it glowed, unblinking, seeing into places beyond time.",
+      "externalUrl": "https://quiet-ripples-in-a-cosmic-pool.uncut.network/nft/34361577911",
+      "attributes": [
+        {
+          "value": "Quiet Ripples in a Cosmic Pool",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0b",
+      "name": "The Oracle Waits",
+      "imageUrl": "https://ipfs.io/ipfs/QmQJRBvPoDGEHxsfy8b3cEENok4p32Ak2XVJo69hgL7voS",
+      "description": "In the depths of the forgotten citadel, the Oracle lingered. Its eyes were glowing embers, reflecting the knowledge of countless ages. It did not speak, for those who found it already knew the price of truth.",
+      "externalUrl": "https://quiet-ripples-in-a-cosmic-pool.uncut.network/nft/34361577912",
+      "attributes": [
+        {
+          "value": "Quiet Ripples in a Cosmic Pool",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0c",
+      "name": "In the Far Reaches",
+      "imageUrl": "https://ipfs.io/ipfs/QmR24wRgYsq8G7icm18HcNTiPL3ko5XYYZ4j1VtL5mSRJM",
+      "description": "Out where the stars dimmed and the void thickened, strange things roamed. It did not move as we do, nor think as we think, but its presence was felt in every ripple of space. It watched, it learned, and it waited.",
+      "externalUrl": "https://quiet-ripples-in-a-cosmic-pool.uncut.network/nft/34361577913",
+      "attributes": [
+        {
+          "value": "Quiet Ripples in a Cosmic Pool",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0d",
+      "name": "The Voyager of Distant Moons",
+      "imageUrl": "https://ipfs.io/ipfs/QmZkTRWhBoFg7cJczBv24GUDFsan3hJ4izrjcYY5UyTHid",
+      "description": "Beneath the sigil of the crescent moon, a figure wandered, its eyes reflecting the light of distant stars. Its journey was endless, a quiet pilgrimage to the forgotten edges of existence. ",
+      "externalUrl": "https://quiet-ripples-in-a-cosmic-pool.uncut.network/nft/34361577915",
+      "attributes": [
+        {
+          "value": "Quiet Ripples in a Cosmic Pool",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0e",
+      "name": "Unyielding Presence",
+      "imageUrl": "https://ipfs.io/ipfs/Qme41JxbmUCGT7ZPUvbmLwLnZvryLrz72QJEhWGXLMDtJW",
+      "description": "In the dark between the stars, where silence reigns, it exists - an immovable force older than fear itself. It did not guard, it did not wait. It simply was. Its gaze turned outward, unblinking, as the universe shifted and whispered around it.",
+      "externalUrl": "https://quiet-ripples-in-a-cosmic-pool.uncut.network/nft/34361577917",
+      "attributes": [
+        {
+          "value": "Quiet Ripples in a Cosmic Pool",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Unique",
+          "trait_type": "Scarcity"
+        }
+      ]
+    }
+  ]
+}

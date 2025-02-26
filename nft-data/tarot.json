@@ -1,0 +1,826 @@
+{
+  "contractAddress": "0xbe6230C79EEf59C1153fC804e99c0a0Ca0e74139",
+  "collectionName": "Tarot",
+  "totalNFTs": 39,
+  "nfts": [
+    {
+      "tokenId": "0x00",
+      "name": " The High Priestess",
+      "imageUrl": "https://ipfs.io/ipfs/Qmc3xHTe97qUcF8s9mVzQGmbECLb2LLvR1oybu16VfZCAX",
+      "description": "created with midjourney --sref 40",
+      "externalUrl": "https://chrypnotarot.uncut.network/nft/34361327393",
+      "attributes": [
+        {
+          "value": "Tarot",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x01",
+      "name": "Death",
+      "imageUrl": "https://ipfs.io/ipfs/QmQw9DYNT9Z6TooNQ7Jh9B4oGqjG1WC8MRUnuu6cKg9Pdo",
+      "description": "created with midjourney --sref 40",
+      "externalUrl": "https://chrypnotarot.uncut.network/nft/34361327394",
+      "attributes": [
+        {
+          "value": "Tarot",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x02",
+      "name": "The Hermit",
+      "imageUrl": "https://ipfs.io/ipfs/QmTCDcxSxWcHuGohGCsYTcogzXvpdjKaaxfZYhDwZVgVQ3",
+      "description": "Created with midjourney --sref 32",
+      "externalUrl": "https://chrypnotarot.uncut.network/nft/34361329297",
+      "attributes": [
+        {
+          "value": "Tarot",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x03",
+      "name": "Death",
+      "imageUrl": "https://ipfs.io/ipfs/QmRsgTzL1iNefqbRRxm8BZDjj1554ZLRmwx63PDVg7QqD1",
+      "description": "Created with midjourney --sref 32",
+      "externalUrl": "https://chrypnotarot.uncut.network/nft/34361329299",
+      "attributes": [
+        {
+          "value": "Tarot",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x04",
+      "name": "The Empress",
+      "imageUrl": "https://ipfs.io/ipfs/QmYHZKruoPdiVHV2x6bq5FExDM22DHbRqud6e3x4EQzKCU",
+      "description": "created with midjourney --sref 40",
+      "externalUrl": "https://chrypnotarot.uncut.network/nft/34361329322",
+      "attributes": [
+        {
+          "value": "Tarot",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x05",
+      "name": "Strength",
+      "imageUrl": "https://ipfs.io/ipfs/QmfD7YLnnRzbDRccARV3x9Bt7HbNBdvGqMyhpLKm7gEZa6",
+      "description": "created with midjourney --sref 40",
+      "externalUrl": "https://chrypnotarot.uncut.network/nft/34361329348",
+      "attributes": [
+        {
+          "value": "Tarot",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x06",
+      "name": "Strength",
+      "imageUrl": "https://ipfs.io/ipfs/QmPc87Kbg6G7L7a8fD4GuWi8PRWK7ncf9NFeo3nae1MPBx",
+      "description": "created with midjourney --sref 32",
+      "externalUrl": "https://chrypnotarot.uncut.network/nft/34361329349",
+      "attributes": [
+        {
+          "value": "Tarot",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x07",
+      "name": "The Fool",
+      "imageUrl": "https://ipfs.io/ipfs/QmWPrBFaoSxYs89WEcdPzP9eT11Abd41KQwZFjdGCmZNna",
+      "description": "Created with ideogram.ai",
+      "externalUrl": "https://chrypnotarot.uncut.network/nft/34361327363",
+      "attributes": [
+        {
+          "value": "Tarot",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x08",
+      "name": "The High Priestess",
+      "imageUrl": "https://ipfs.io/ipfs/QmXekjHCyLNBVfB6R9AYuDyNEqEhmGbtQaf14YyYsEDVKn",
+      "description": "Created with ideogram.ai",
+      "externalUrl": "https://chrypnotarot.uncut.network/nft/34361327366",
+      "attributes": [
+        {
+          "value": "Tarot",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x09",
+      "name": "The Lovers",
+      "imageUrl": "https://ipfs.io/ipfs/QmYeLg2gBqESoZN4y4wbeuhnbJqPnfKiXLH2SWN2za94i3",
+      "description": "Created with ideogram.ai",
+      "externalUrl": "https://chrypnotarot.uncut.network/nft/34361327371",
+      "attributes": [
+        {
+          "value": "Tarot",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0a",
+      "name": "The Emperor",
+      "imageUrl": "https://ipfs.io/ipfs/QmcpbHc1VrCfrPq4K8AwNXWJWXpKshqmqh1xVmJeXLHAfF",
+      "description": "Created with ideogram.ai",
+      "externalUrl": "https://chrypnotarot.uncut.network/nft/34361327368",
+      "attributes": [
+        {
+          "value": "Tarot",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0b",
+      "name": "The Empress",
+      "imageUrl": "https://ipfs.io/ipfs/QmPL5ZLjGuk8mBBVhmK3VwVZAPGVgqXM3aouRkL6iNJWro",
+      "description": "Created with ideogram.ai",
+      "externalUrl": "https://chrypnotarot.uncut.network/nft/34361327367",
+      "attributes": [
+        {
+          "value": "Tarot",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0c",
+      "name": "The Hierophant",
+      "imageUrl": "https://ipfs.io/ipfs/QmaboDqNfUqvmLpqLuFoCWpkgdDwH31AJSyhitzxrWPni3",
+      "description": "Created with ideogram.ai",
+      "externalUrl": "https://chrypnotarot.uncut.network/nft/34361327370",
+      "attributes": [
+        {
+          "value": "Tarot",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0d",
+      "name": "The Chariot",
+      "imageUrl": "https://ipfs.io/ipfs/QmeuxEXV4BESHhd6s6494w2fwqSWWexmw4dVpKKB9MugtH",
+      "description": "Created with ideogram.ai",
+      "externalUrl": "https://chrypnotarot.uncut.network/nft/34361327372",
+      "attributes": [
+        {
+          "value": "Tarot",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0e",
+      "name": "Strength",
+      "imageUrl": "https://ipfs.io/ipfs/QmXGrXKr8a2KRgU6xssPuoTbsd9h5g61wLCCP6tJ2h2JDU",
+      "description": "Created with ideogram.ai",
+      "externalUrl": "https://chrypnotarot.uncut.network/nft/34361327373",
+      "attributes": [
+        {
+          "value": "Tarot",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0f",
+      "name": "The World",
+      "imageUrl": "https://ipfs.io/ipfs/Qmcx9MDLqCBCktSUc1iL58isNwNcHHNHYZDdyKSeBMt4WF",
+      "description": "Created with ideogram.ai",
+      "externalUrl": "https://chrypnotarot.uncut.network/nft/34361327388",
+      "attributes": [
+        {
+          "value": "Tarot",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x10",
+      "name": "The Magician",
+      "imageUrl": "https://ipfs.io/ipfs/QmSmtkdiMydmVvDqHLqF2if7DQAdd1ufaLcKqfX1H31P2u",
+      "description": "Created with ideogram.ai",
+      "externalUrl": "https://chrypnotarot.uncut.network/nft/34361327365",
+      "attributes": [
+        {
+          "value": "Tarot",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x11",
+      "name": "The Devil",
+      "imageUrl": "https://ipfs.io/ipfs/QmeY53aenBG4yKfJvjjH9zNN5WmzV7b3pmwQcwJCh3Pqqy",
+      "description": "Created with ideogram.ai",
+      "externalUrl": "https://chrypnotarot.uncut.network/nft/34361327382",
+      "attributes": [
+        {
+          "value": "Tarot",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x12",
+      "name": "Justice",
+      "imageUrl": "https://ipfs.io/ipfs/QmPbdvLSRH2NgBtTT9WR8Nw9BTJG2SY9KtZNsWDxxGqf7S",
+      "description": "Created with ideogram.ai",
+      "externalUrl": "https://chrypnotarot.uncut.network/nft/34361327378",
+      "attributes": [
+        {
+          "value": "Tarot",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x13",
+      "name": "The Hermit",
+      "imageUrl": "https://ipfs.io/ipfs/QmYzZpDL4ZsCzm5TcexLTeWMrrrkfsunLiL3QL139EwE2L",
+      "description": "Created with ideogram.ai",
+      "externalUrl": "https://chrypnotarot.uncut.network/nft/34361327375",
+      "attributes": [
+        {
+          "value": "Tarot",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x14",
+      "name": "The Star",
+      "imageUrl": "https://ipfs.io/ipfs/QmRrNq9TDPfwSKH9FN5bWk4E9djhq2Qs9pqp4fg57i7CfA",
+      "description": "Created with ideogram.ai",
+      "externalUrl": "https://chrypnotarot.uncut.network/nft/34361327384",
+      "attributes": [
+        {
+          "value": "Tarot",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x15",
+      "name": "Judgement",
+      "imageUrl": "https://ipfs.io/ipfs/QmWxnWAbvinxL2qoXnZTc5QDa5c7xsPvoWPktZ3tTuJq2p",
+      "description": "Created with ideogram.ai",
+      "externalUrl": "https://chrypnotarot.uncut.network/nft/34361327387",
+      "attributes": [
+        {
+          "value": "Tarot",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x16",
+      "name": "Death",
+      "imageUrl": "https://ipfs.io/ipfs/QmTiz2AUG78tqFCjo69XxZphojj8ufeQBu6hk2S6xhw5bA",
+      "description": "Created with ideogram.ai",
+      "externalUrl": "https://chrypnotarot.uncut.network/nft/34361327380",
+      "attributes": [
+        {
+          "value": "Tarot",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x17",
+      "name": "The Wheel of Fortune",
+      "imageUrl": "https://ipfs.io/ipfs/QmU645Lgf9fnVSakw3q7bf6y4gnZUpwid1UpusfxdjG1m2",
+      "description": "Created with ideogram.ai",
+      "externalUrl": "https://chrypnotarot.uncut.network/nft/34361327377",
+      "attributes": [
+        {
+          "value": "Tarot",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x18",
+      "name": "The Moon",
+      "imageUrl": "https://ipfs.io/ipfs/QmNRFGJLfnB5qUR8LifcsBQNv6ThV2AS4zSU4fF7VPzGu8",
+      "description": "Created with ideogram.ai",
+      "externalUrl": "https://chrypnotarot.uncut.network/nft/34361327385",
+      "attributes": [
+        {
+          "value": "Tarot",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x19",
+      "name": "Temperance",
+      "imageUrl": "https://ipfs.io/ipfs/QmRfkD6n1rheXCQYWvZRZ5Zd9HragNvNPvUGKgjNiAK4CK",
+      "description": "Created with ideogram.ai",
+      "externalUrl": "https://chrypnotarot.uncut.network/nft/34361327381",
+      "attributes": [
+        {
+          "value": "Tarot",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x1a",
+      "name": "The Tower",
+      "imageUrl": "https://ipfs.io/ipfs/QmPtDaymYQhjcpEj3M7DwgKXpHZQSXXHggDUTg9s7RWb2u",
+      "description": "Created with ideogram.ai",
+      "externalUrl": "https://chrypnotarot.uncut.network/nft/34361327383",
+      "attributes": [
+        {
+          "value": "Tarot",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x1b",
+      "name": "The Sun",
+      "imageUrl": "https://ipfs.io/ipfs/Qmf4ohZZe7RiCj5AxV5CpKJDpAyyrdbMF3bMG8QMF7VP2c",
+      "description": "Created with ideogram.ai",
+      "externalUrl": "https://chrypnotarot.uncut.network/nft/34361327386",
+      "attributes": [
+        {
+          "value": "Tarot",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x1c",
+      "name": "The Hanged Man",
+      "imageUrl": "https://ipfs.io/ipfs/QmXotk9zw2NoAyJZcMCf6VpKJReXUw3kr1Ad7USx4fBPA9",
+      "description": "Created with ideogram.ai",
+      "externalUrl": "https://chrypnotarot.uncut.network/nft/34361327379",
+      "attributes": [
+        {
+          "value": "Tarot",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x1d",
+      "name": "Justice",
+      "imageUrl": "https://ipfs.io/ipfs/QmetM2nxYHAM28zE1jGEn5eJmfMkFk2K6RCdq3qtoCusk6",
+      "description": "created with midjourney --sref 40",
+      "externalUrl": "https://chrypnotarot.uncut.network/nft/34361330384",
+      "attributes": [
+        {
+          "value": "Tarot",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x1e",
+      "name": "Justice",
+      "imageUrl": "https://ipfs.io/ipfs/QmWbx3CzDKCYPYssSP5A6aEHi2oBnGp1yPbQvvfPDK9mwC",
+      "description": "created with midjourney --sref 40",
+      "externalUrl": "https://chrypnotarot.uncut.network/nft/34361330385",
+      "attributes": [
+        {
+          "value": "Tarot",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x1f",
+      "name": "The Fool",
+      "imageUrl": "https://ipfs.io/ipfs/QmVdwNb5VCivWuW3e5xFYQDmSmsMUzgGDCYysBCood2zBL",
+      "description": "starfire tarot style by [@TonyJMatos](https://x.com/TonyJMatos)",
+      "externalUrl": "https://chrypnotarot.uncut.network/nft/34361352361",
+      "attributes": [
+        {
+          "value": "Tarot",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x20",
+      "name": "The Magician",
+      "imageUrl": "https://ipfs.io/ipfs/QmbN6N4YAFY8BfFjj7saMewySFs7FZZob32xVXyYb6ixUs",
+      "description": "starfire tarot style by [@TonyJMatos](https://x.com/TonyJMatos)",
+      "externalUrl": "https://chrypnotarot.uncut.network/nft/34361352362",
+      "attributes": [
+        {
+          "value": "Tarot",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x21",
+      "name": "The Hermit",
+      "imageUrl": "https://ipfs.io/ipfs/QmfAi68JnXC8kRuUWUGHs9qnUupEnoab9LMh66nkQ5Wvmm",
+      "description": "starfire tarot style by [@TonyJMatos](https://x.com/TonyJMatos)",
+      "externalUrl": "https://chrypnotarot.uncut.network/nft/34361352363",
+      "attributes": [
+        {
+          "value": "Tarot",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x22",
+      "name": "Death",
+      "imageUrl": "https://ipfs.io/ipfs/QmVz9G8QsET266HzjQkJLqd5TdrgMzTzBoL7uZYDpu9sBy",
+      "description": "starfire tarot style by [@TonyJMatos](https://x.com/TonyJMatos)",
+      "externalUrl": "https://chrypnotarot.uncut.network/nft/34361352364",
+      "attributes": [
+        {
+          "value": "Tarot",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x23",
+      "name": "The Fool",
+      "imageUrl": "https://ipfs.io/ipfs/QmcJALBdW6NwFyo9y1FuRPxMQxtMLsLAnXCnjNxgmGF8W8",
+      "description": "created with midjourney --sref 730773529\n\n\\\n",
+      "externalUrl": "https://chrypnotarot.uncut.network/nft/34361352365",
+      "attributes": [
+        {
+          "value": "Tarot",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x24",
+      "name": "The Magician",
+      "imageUrl": "https://ipfs.io/ipfs/QmcVcQV3mie3ituz5kJ9Zod91oBQGBGge61eac2BE5qTXp",
+      "description": "created with midjourney --sref 730773529\n\n\\\n",
+      "externalUrl": "https://chrypnotarot.uncut.network/nft/34361352366",
+      "attributes": [
+        {
+          "value": "Tarot",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x25",
+      "name": "The Hermit",
+      "imageUrl": "https://ipfs.io/ipfs/QmUsgt6m5BD8x22nWqPrE2ajQZAaJ7DkArTdJBMM9AA9gN",
+      "description": "created with midjourney --sref 730773529\n\n\\\n",
+      "externalUrl": "https://chrypnotarot.uncut.network/nft/34361352367",
+      "attributes": [
+        {
+          "value": "Tarot",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x26",
+      "name": "Death",
+      "imageUrl": "https://ipfs.io/ipfs/QmS4KKiJ9qimfT4fR8wog7XadphQY9v5Ae1hciA5RUargD",
+      "description": "created with midjourney --sref 730773529\n\n\\\n",
+      "externalUrl": "https://chrypnotarot.uncut.network/nft/34361352368",
+      "attributes": [
+        {
+          "value": "Tarot",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    }
+  ]
+}

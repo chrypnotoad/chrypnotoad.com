@@ -1,0 +1,595 @@
+{
+  "contractAddress": "0x05539565514Ab9d6EBBd42dCd760375DC2c5Af15",
+  "collectionName": "fashionpunk",
+  "totalNFTs": 28,
+  "nfts": [
+    {
+      "tokenId": "0x00",
+      "name": "guccipunk",
+      "imageUrl": "https://arweave.net/p71TOLsEGuNL7RFk2M47_AQi43CPn7sXyOlagiuLk0o",
+      "description": "manifestos worn proudly",
+      "externalUrl": "https://fashionpunk.uncut.network/nft/34361004918",
+      "attributes": [
+        {
+          "value": "fashionpunk",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x01",
+      "name": "guccipunk",
+      "imageUrl": "https://arweave.net/KXf3w2C7gFT37Z02cIwLfW-WADLFvDfCYjRLNfq9zNI",
+      "description": "manifestos worn proudly",
+      "externalUrl": "https://fashionpunk.uncut.network/nft/34361004919",
+      "attributes": [
+        {
+          "value": "fashionpunk",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Epic",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x02",
+      "name": "guccipunk",
+      "imageUrl": "https://arweave.net/lKP9Bqe7E0-h6wxG3QnlxpXG4Frk5WloKRqwm9YzJtA",
+      "description": "manifestos worn proudly",
+      "externalUrl": "https://fashionpunk.uncut.network/nft/34361004920",
+      "attributes": [
+        {
+          "value": "fashionpunk",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x03",
+      "name": "guccipunk",
+      "imageUrl": "https://arweave.net/PuugTsjqDW00uKJ5FlqWlOHS_z7PjOEOxWSzcXqDg-U",
+      "description": "manifestos worn proudly",
+      "externalUrl": "https://fashionpunk.uncut.network/nft/34361004921",
+      "attributes": [
+        {
+          "value": "fashionpunk",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x04",
+      "name": "guccipunk",
+      "imageUrl": "https://arweave.net/gZ1KZjpdymSfPbIG1nEoTFSLPYkWaPCEKxSe5GKLGCU",
+      "description": "manifestos worn proudly",
+      "externalUrl": "https://fashionpunk.uncut.network/nft/34361004922",
+      "attributes": [
+        {
+          "value": "fashionpunk",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x05",
+      "name": "guccipunk",
+      "imageUrl": "https://arweave.net/tOTfB_2ZiOXpJN3R6UG_uSPVyQaqw36x2WNOhyAhE2k",
+      "description": "manifestos worn proudly",
+      "externalUrl": "https://fashionpunk.uncut.network/nft/34361004923",
+      "attributes": [
+        {
+          "value": "fashionpunk",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Epic",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x06",
+      "name": "guccipunk",
+      "imageUrl": "https://arweave.net/GIbuH36-07X7wghnxf8Yq1Q1NlL3D-9V7XzDMf4Dil8",
+      "description": "manifestos worn proudly",
+      "externalUrl": "https://fashionpunk.uncut.network/nft/34361004925",
+      "attributes": [
+        {
+          "value": "fashionpunk",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x07",
+      "name": "guccipunk",
+      "imageUrl": "https://arweave.net/eInSZ7ClPM3_WYJILq_ey8V7zvLppXz5_dnSCVgB-W4",
+      "description": "manifestos worn proudly",
+      "externalUrl": "https://fashionpunk.uncut.network/nft/34361004926",
+      "attributes": [
+        {
+          "value": "fashionpunk",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Epic",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x08",
+      "name": "guccipunk",
+      "imageUrl": "https://arweave.net/ctKeHrL1kNxMvLxSTuTEf8IT-zBd0s_8AMFAt1hUt9c",
+      "description": "manifestos worn proudly",
+      "externalUrl": "https://fashionpunk.uncut.network/nft/34361004927",
+      "attributes": [
+        {
+          "value": "fashionpunk",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x09",
+      "name": "guccipunk",
+      "imageUrl": "https://arweave.net/yeQJU8FwxV6pLX5FfLWWTdb1_IQ85akbdyvHruyOn68",
+      "description": "manifestos worn proudly",
+      "externalUrl": "https://fashionpunk.uncut.network/nft/34361004924",
+      "attributes": [
+        {
+          "value": "fashionpunk",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0a",
+      "name": "guccipunk",
+      "imageUrl": "https://arweave.net/vE52v6-bTbfvJKRbfiPnfqDxQjRS46seSalnvYk3u5I",
+      "description": "manifestos worn proudly",
+      "externalUrl": "https://fashionpunk.uncut.network/nft/34361005680",
+      "attributes": [
+        {
+          "value": "fashionpunk",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Epic",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0b",
+      "name": "guccipunk",
+      "imageUrl": "https://arweave.net/I8mPsbnUxm6_aypbzmxPOj6civs8PpKoNc5AqXNz-Qc",
+      "description": "manifestos worn proudly",
+      "externalUrl": "https://fashionpunk.uncut.network/nft/34361005681",
+      "attributes": [
+        {
+          "value": "fashionpunk",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Epic",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0c",
+      "name": "guccipunk",
+      "imageUrl": "https://arweave.net/8xuNlAg1__8yqGIMRg-RHUd56esDHBQ1yj02maPgiyA",
+      "description": "manifestos worn proudly",
+      "externalUrl": "https://fashionpunk.uncut.network/nft/34361005682",
+      "attributes": [
+        {
+          "value": "fashionpunk",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0d",
+      "name": "guccipunk",
+      "imageUrl": "https://arweave.net/nq-fndJ2ksKkMBO9yabJgUU0HiaPjNp4GD5EnZ3lLds",
+      "description": "manifestos worn proudly",
+      "externalUrl": "https://fashionpunk.uncut.network/nft/34361005683",
+      "attributes": [
+        {
+          "value": "fashionpunk",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0e",
+      "name": "guccipunk",
+      "imageUrl": "https://arweave.net/F8jHXR1l4u7_jale-X-Zvy-KriIbCBwYekyeH48EoAU",
+      "description": "manifestos worn proudly",
+      "externalUrl": "https://fashionpunk.uncut.network/nft/34361005684",
+      "attributes": [
+        {
+          "value": "fashionpunk",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Epic",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x0f",
+      "name": "guccipunk",
+      "imageUrl": "https://arweave.net/h8KHIQTk-ukiZAGw-jleh3v1Wt0_FiOx_P9bYR7Ogr0",
+      "description": "manifestos worn proudly",
+      "externalUrl": "https://fashionpunk.uncut.network/nft/34361020948",
+      "attributes": [
+        {
+          "value": "fashionpunk",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x10",
+      "name": "🤯",
+      "imageUrl": "https://arweave.net/ubU0h0qZo_DgoF00BK04I_gY_ogv_gznz9SMdlV3Heg",
+      "description": "manifestos worn proudly",
+      "externalUrl": "https://fashionpunk.uncut.network/nft/34361020950",
+      "attributes": [
+        {
+          "value": "fashionpunk",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Epic",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x11",
+      "name": "🍊👄🍊",
+      "imageUrl": "https://arweave.net/5TNfXJhdQRwa39uPZdgAN1tWh4gGyj3LB7g0bQRHEn0",
+      "description": "manifestos worn proudly",
+      "externalUrl": "https://fashionpunk.uncut.network/nft/34361020949",
+      "attributes": [
+        {
+          "value": "fashionpunk",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Epic",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x12",
+      "name": "guccipunk",
+      "imageUrl": "https://arweave.net/5JsNB1_uQHJ5_EpegfWkYEKc0CD_CwDibTEmnH-qGNk",
+      "description": "manifestos worn proudly",
+      "externalUrl": "https://fashionpunk.uncut.network/nft/34361020951",
+      "attributes": [
+        {
+          "value": "fashionpunk",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Epic",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x13",
+      "name": "floralpunk",
+      "imageUrl": "https://arweave.net/lLN0IQt9puftENr-4EFkBfPCEws3rZ7nNx1k0_JrkG8",
+      "description": "blooming expands the cosmos",
+      "externalUrl": "https://fashionpunk.uncut.network/nft/34361020952",
+      "attributes": [
+        {
+          "value": "fashionpunk",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x14",
+      "name": "floralpunk",
+      "imageUrl": "https://arweave.net/unpIDNP5r6M0GAbxRmdUhPvqpUtd2vjlNUB-UepNeSA",
+      "description": "blooming expands the cosmos",
+      "externalUrl": "https://fashionpunk.uncut.network/nft/34361020953",
+      "attributes": [
+        {
+          "value": "fashionpunk",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x15",
+      "name": "floralpunk",
+      "imageUrl": "https://arweave.net/U4azRpIZHpLwTfxte7tHb2jiYZ423ZNrJtKPIRAjAWA",
+      "description": "blooming expands the cosmos",
+      "externalUrl": "https://fashionpunk.uncut.network/nft/34361020954",
+      "attributes": [
+        {
+          "value": "fashionpunk",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x16",
+      "name": "lost my train of thought",
+      "imageUrl": "https://arweave.net/wsttq0khrxss5_OU9eVCMyAgDR-TSwIAnG5JHuDQOHs",
+      "description": "blooming expands the cosmos",
+      "externalUrl": "https://fashionpunk.uncut.network/nft/34361020955",
+      "attributes": [
+        {
+          "value": "fashionpunk",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x17",
+      "name": "plumagepunk",
+      "imageUrl": "https://arweave.net/r4Y-Dx6dEahun0Ox6N3zM4Iboe8IYxy-mdo2VX9h-Uk",
+      "description": "Feathers nature's art",
+      "externalUrl": "https://fashionpunk.uncut.network/nft/34361020956",
+      "attributes": [
+        {
+          "value": "fashionpunk",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x18",
+      "name": "Golden Enigma",
+      "imageUrl": "https://arweave.net/oz3wavZ4ybyCy2SD9p_nSOJXNRDFaTDqgWIP7GO5omI",
+      "description": "Veiled gaze, stars whisper",
+      "externalUrl": "https://fashionpunk.uncut.network/nft/34361022230",
+      "attributes": [
+        {
+          "value": "fashionpunk",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Epic",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x19",
+      "name": "Glitterpunk",
+      "imageUrl": "https://arweave.net/YxpVgGi3v9EI6ooJ6uJAB6EsQhLyGqTWNjHNsdj_qjo",
+      "description": "long neck",
+      "externalUrl": "https://fashionpunk.uncut.network/nft/34361049050",
+      "attributes": [
+        {
+          "value": "fashionpunk",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x1a",
+      "name": "Smoldering",
+      "imageUrl": "https://arweave.net/7GX2rAu1JQ5z67Mf2-n9nJevqv41okaDt6Di2fxnSHs",
+      "description": "smokepunk",
+      "externalUrl": "https://fashionpunk.uncut.network/nft/34361049061",
+      "attributes": [
+        {
+          "value": "fashionpunk",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    },
+    {
+      "tokenId": "0x1b",
+      "name": "Envy's Muse",
+      "imageUrl": "https://arweave.net/cxYXroJxQbf_189YSj086d35FdRNGubkXkVpBiyN47s",
+      "description": "Verdant Vanity",
+      "externalUrl": "https://fashionpunk.uncut.network/nft/34361054721",
+      "attributes": [
+        {
+          "value": "fashionpunk",
+          "trait_type": "Collection"
+        },
+        {
+          "value": "chrypnotoad",
+          "trait_type": "Creator"
+        },
+        {
+          "value": "Legendary",
+          "trait_type": "Scarcity"
+        }
+      ]
+    }
+  ]
+}

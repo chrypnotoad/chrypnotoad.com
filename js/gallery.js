@@ -227,7 +227,15 @@ function updateModalContent() {
   
   document.getElementById('modal-image').src = image.src;
   document.getElementById('modal-title').textContent = image.title;
-  document.getElementById('modal-description').textContent = image.description || '';
+  
+  // Parse markdown in description if the parseMarkdown function exists
+  const descriptionElement = document.getElementById('modal-description');
+  if (typeof parseMarkdown === 'function' && image.description) {
+    descriptionElement.innerHTML = parseMarkdown(image.description);
+  } else {
+    descriptionElement.textContent = image.description || '';
+  }
+  
   document.getElementById('image-counter').textContent = `${imageNumber} / ${currentImages.length}`;
   
   // Add NFT-specific info if available

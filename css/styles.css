@@ -1,4 +1,8 @@
-/* styles.css */
+/* Custom Highlights and Accents */
+::selection {
+    background-color: var(--accent-color);
+    color: #000;
+}/* styles.css */
 :root {
     --primary-color: #121212;
     --secondary-color: #1e1e1e;
@@ -392,8 +396,44 @@ footer {
     }
 }
 
-/* Custom Highlights and Accents */
-::selection {
-    background-color: var(--accent-color);
-    color: #000;
+/* Markdown Styles */
+.md-link {
+    color: var(--accent-color);
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+.md-link:hover {
+    text-decoration: underline;
+    color: #00a86b;
+}
+
+#modal-description {
+    line-height: 1.6;
+}
+
+#modal-description p {
+    margin-bottom: 1rem;
+}
+
+#modal-description h1, 
+#modal-description h2, 
+#modal-description h3 {
+    margin-top: 1.5rem;
+    margin-bottom: 0.75rem;
+}
+
+#modal-description ul, 
+#modal-description ol {
+    margin-left: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+#modal-description li {
+    margin-bottom: 0.5rem;
+}
+
+#modal-description strong,
+#modal-description em {
+    color: var(--accent-color);
 }
